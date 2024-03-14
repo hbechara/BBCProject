@@ -18,7 +18,7 @@ def run(playwright, specified_date_str):
     specified_date = datetime.strptime(specified_date_str, "%d %b %Y")
     browser = playwright.chromium.launch(headless=False)
     page = browser.new_page()
-    page.goto("https://www.aljazeera.com/middle-east/")
+    page.goto("https://www.aljazeera.com/middle-east")
 
     while True:
         page.evaluate("window.scrollTo(0, document.body.scrollHeight);")
