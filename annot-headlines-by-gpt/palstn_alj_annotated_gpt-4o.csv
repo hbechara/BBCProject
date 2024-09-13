@@ -1,0 +1,90 @@
+Alj_Title,response,cause,effect,is_causal
+"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+South Africa files case at ICJ accusing Israel of ‘genocidal acts’ in Gaza,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Yemen’s Houthi rebels seize cargo ship in Red Sea,"{'cause': 'Yemen’s Houthi rebels seize cargo ship', 'effect': 'in Red Sea', 'is_causal': True}",Yemen’s Houthi rebels seize cargo ship,in Red Sea,True
+US imposes sanctions on four Israeli settlers over West Bank violence,"{'cause': 'West Bank violence', 'effect': 'US imposes sanctions on four Israeli settlers', 'is_causal': True}",West Bank violence,US imposes sanctions on four Israeli settlers,True
+"Israel to begin daily four-hour ‘pauses’ in fighting in north Gaza, US says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+First fuel truck since start of Israel-Hamas war enters Gaza,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israeli forces kill three Palestinians in West Bank hospital raid,"{'cause': 'Israeli forces raid West Bank hospital', 'effect': 'kill three Palestinians', 'is_causal': True}",Israeli forces raid West Bank hospital,kill three Palestinians,True
+Palestinians mourn poet Refaat Alareer killed in Israeli air strike,"{'cause': 'Israeli air strike', 'effect': 'Palestinians mourn poet Refaat Alareer killed', 'is_causal': True}",Israeli air strike,Palestinians mourn poet Refaat Alareer killed,True
+Behind the scenes: How the Israel-Hamas truce deal came together,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Body of Hamas captive Yehudit Weiss found near Gaza hospital, Israel says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Shipping companies pause Red Sea journeys after Houthi attacks,"{'cause': 'Houthi attacks', 'effect': 'Shipping companies pause Red Sea journeys', 'is_causal': True}",Houthi attacks,Shipping companies pause Red Sea journeys,True
+Israel agrees to allow ‘minimal’ two trucks of fuel a day into Gaza,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israeli tanks besiege Gaza’s Indonesian Hospital,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Yemen’s Houthi rebels seize cargo ship in Red Sea,"{'cause': 'Yemen’s Houthi rebels seize cargo ship', 'effect': 'in Red Sea', 'is_causal': True}",Yemen’s Houthi rebels seize cargo ship,in Red Sea,True
+Israel orders evacuations as onslaught on Gaza widens,"{'cause': 'onslaught on Gaza widens', 'effect': 'Israel orders evacuations', 'is_causal': True}",onslaught on Gaza widens,Israel orders evacuations,True
+Babies evacuated from al-Shifa Hospital to southern Gaza amid Israel war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Turkey arrests seven suspected of selling information to Israel’s Mossad,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israel ‘not successful’ in minimising Gaza civilian casualties: Netanyahu,"{'cause': 'Israel ‘not successful’ in minimising', 'effect': 'Gaza civilian casualties', 'is_causal': True}",Israel ‘not successful’ in minimising,Gaza civilian casualties,True
+Biden warns Israel risks losing support over ‘indiscriminate’ Gaza bombing,"{'cause': '‘indiscriminate’ Gaza bombing', 'effect': 'Israel risks losing support', 'is_causal': True}",‘indiscriminate’ Gaza bombing,Israel risks losing support,True
+Israel arrests Palestinian activist Ahed Tamimi in occupied West Bank raids,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Hezbollah’s Hassan Nasrallah speech on Israel-Hamas war: Key takeaways,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+US House votes to censure Rashida Tlaib over Israel-Hamas war comments,"{'cause': 'Israel-Hamas war comments', 'effect': 'US House votes to censure Rashida Tlaib', 'is_causal': True}",Israel-Hamas war comments,US House votes to censure Rashida Tlaib,True
+US launches new strikes on Houthi targets in Yemen,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Iran denies involvement in drone attack that killed 3 US soldiers in Jordan,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Al Jazeera condemns Israeli forces killing of cameraman Samer Abudaqa,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Israel says German-Israeli woman Shani Louk, taken by Hamas, is dead","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+British FM ‘worried’ Israel may have breached international law in Gaza,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Al Jazeera journalist Samer Abudaqa killed in Israeli attack in Gaza,"{'cause': 'Israeli attack in Gaza', 'effect': 'Al Jazeera journalist Samer Abudaqa killed', 'is_causal': True}",Israeli attack in Gaza,Al Jazeera journalist Samer Abudaqa killed,True
+Israel promises to fight South Africa genocide accusation at ICJ,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Al Jazeera condemns Israeli killing of journalist Wael Al-Dahdouh’s family,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Blinken says Palestinians displaced in Gaza must be able to return home,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israeli army says it mistakenly killed three captives held in Gaza,"{'cause': 'mistakenly', 'effect': 'killed three captives held in Gaza', 'is_causal': True}",mistakenly,killed three captives held in Gaza,True
+‘A wonderful human’: Al Jazeera colleagues remember Samer Abudaqa,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Israel and Hamas agree to extend truce by two days, Qatar says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Senior Hamas official Saleh al-Arouri killed in Beirut suburb,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Hamza, son of Al Jazeera’s Wael Dahdouh, killed in Israeli attack in Gaza","{'cause': 'Israeli attack in Gaza', 'effect': 'Hamza, son of Al Jazeera’s Wael Dahdouh, killed', 'is_causal': True}",Israeli attack in Gaza,"Hamza, son of Al Jazeera’s Wael Dahdouh, killed",True
+Israeli army says it mistakenly killed three captives held in Gaza,"{'cause': 'Israeli army mistakenly killed', 'effect': 'three captives held in Gaza', 'is_causal': True}",Israeli army mistakenly killed,three captives held in Gaza,True
+Iran seizes oil tanker off Oman in dispute with US,"{'cause': 'dispute with US', 'effect': 'Iran seizes oil tanker off Oman', 'is_causal': True}",dispute with US,Iran seizes oil tanker off Oman,True
+ICJ orders Israel to prevent acts of genocide in Gaza,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Qatar ‘appalled’ at alleged Netanyahu criticism of mediation in Gaza war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"What is Tower 22, the Jordan-based US outpost targeted in a drone strike?","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Netanyahu says Israel to manage Gaza’s security indefinitely after the war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Three killed, several injured in shooting at Jerusalem bus stop","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"US approves plan for strikes on Iran-linked targets in Iraq, Syria: Report","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Senior Hamas official Saleh al-Arouri killed in Beirut suburb,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Palestinians break into Gaza UN aid warehouses as toll tops 8,000","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+President el-Sisi declared victorious in Egypt election,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,"{'cause': 'Israeli air attack on Jabalia refugee camp', 'effect': 'Dozens killed', 'is_causal': True}",Israeli air attack on Jabalia refugee camp,Dozens killed,True
+Israeli air strike in Syria kills top Iranian military adviser,"{'cause': 'Israeli air strike in Syria', 'effect': 'kills top Iranian military adviser', 'is_causal': True}",Israeli air strike in Syria,kills top Iranian military adviser,True
+"Yemen’s Houthis hit US-owned ship in missile attack, US military says","{'cause': 'Yemen’s Houthis hit US-owned ship in missile attack', 'effect': 'US military says', 'is_causal': True}",Yemen’s Houthis hit US-owned ship in missile attack,US military says,True
+ICJ hears South Africa’s genocide case against Israel over Gaza war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Al Jazeera to refer journalist Samer Abudaqa’s killing to ICC,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Gaza death toll surpasses 20,000 as UN Security Council delays vote on aid","{'cause': 'UN Security Council delays vote on aid', 'effect': 'Gaza death toll surpasses 20,000', 'is_causal': True}",UN Security Council delays vote on aid,"Gaza death toll surpasses 20,000",True
+Blinken says civilian death toll in Gaza ‘far too high’,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Gaza’s al-Shifa Hospital forced to bury dead patients in ‘mass grave’,"{'cause': 'Gaza’s al-Shifa Hospital forced to', 'effect': 'bury dead patients in ‘mass grave’', 'is_causal': True}",Gaza’s al-Shifa Hospital forced to,bury dead patients in ‘mass grave’,True
+Blinken says civilian death toll in Gaza ‘far too high’,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"US approves plan for strikes on Iran-linked targets in Iraq, Syria: Report","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Yemen’s Houthis claim missile attack on Norwegian ship Strinda,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israel raids Gaza’s al-Shifa Hospital for second day,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Gaza hospital generators to run out of fuel in 48 hours: Health Ministry,"{'cause': 'run out of fuel in 48 hours', 'effect': 'Gaza hospital generators to', 'is_causal': True}",run out of fuel in 48 hours,Gaza hospital generators to,True
+"Three US service members killed in Jordan drone attack, Biden says","{'cause': 'Jordan drone attack', 'effect': 'Three US service members killed', 'is_causal': True}",Jordan drone attack,Three US service members killed,True
+"Palestinians detained by Israel in Gaza blindfolded, stripped to underwear","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,"{'cause': 'Israeli air attack on Jabalia refugee camp', 'effect': 'Dozens killed', 'is_causal': True}",Israeli air attack on Jabalia refugee camp,Dozens killed,True
+ICJ hears South Africa’s genocide case against Israel over Gaza war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Iran dismisses US accusations of tanker attack off India,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israeli defence minister outlines new phase in Gaza war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Disease could kill more in Gaza than bombs, WHO says amid Israeli siege","{'cause': 'Israeli siege', 'effect': 'Disease could kill more in Gaza than bombs', 'is_causal': True}",Israeli siege,Disease could kill more in Gaza than bombs,True
+‘All scenarios open’: Hezbollah chief in first speech since Israel-Gaza war,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"CIA, Mossad chiefs meet in Qatar as Israel-Hamas truce is extended","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Iran seizes oil tanker off Oman in dispute with US,"{'cause': 'dispute with US', 'effect': 'Iran seizes oil tanker off Oman', 'is_causal': True}",dispute with US,Iran seizes oil tanker off Oman,True
+"Defiant Houthis claim fresh Red Sea attacks on US, UK ships","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Iran denies involvement in drone attack that killed 3 US soldiers in Jordan,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Why is Gaza’s al-Shifa Hospital so important for the Israeli army?,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Namibia condemns Germany for defending Israel in ICJ genocide case,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Attack on Syrian US base kills Kurdish fighters as regional tension simmers,"{'cause': 'Attack on Syrian US base', 'effect': 'kills Kurdish fighters', 'is_causal': True}",Attack on Syrian US base,kills Kurdish fighters,True
+Israel’s Netanyahu doubles down on opposition to Palestinian statehood,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Group of 28 premature Gaza babies evacuated to Egypt amid Israeli attacks,"{'cause': 'Israeli attacks', 'effect': 'Group of 28 premature Gaza babies evacuated to Egypt', 'is_causal': True}",Israeli attacks,Group of 28 premature Gaza babies evacuated to Egypt,True
+Rafah crossing linking war-torn Gaza to Egypt opens,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Israeli forces kill two Palestinian children in occupied West Bank raid,"{'cause': 'Israeli forces kill', 'effect': 'Palestinian children in occupied West Bank raid', 'is_causal': True}",Israeli forces kill,Palestinian children in occupied West Bank raid,True
+Putin makes rare trip to Middle East to meet with UAE and Saudi leaders,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Israeli army arrests al-Shifa Hospital director, other doctors in Gaza","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Three US service members killed in Jordan drone attack, Biden says","{'cause': 'Jordan drone attack', 'effect': 'Three US service members killed', 'is_causal': True}",Jordan drone attack,Three US service members killed,True
+Hamas releases video of three Gaza hostages addressing Netanyahu,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"CIA, Mossad chiefs meet in Qatar as Israel-Hamas truce is extended","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+US-led coalition warns Houthis of ‘consequences’ after Red Sea attacks,"{'cause': 'Houthis Red Sea attacks', 'effect': 'US-led coalition warns Houthis of ‘consequences’', 'is_causal': True}",Houthis Red Sea attacks,US-led coalition warns Houthis of ‘consequences’,True

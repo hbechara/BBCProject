@@ -1,0 +1,66 @@
+BBC_Title,response,cause,effect,is_causal
+Rustem Umerov: Who is Ukraine's next defence minister?,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine and Russia complete first prisoner swap since plane crash,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine celebrates first Christmas on 25 December,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Drone attack hits building in central Moscow,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Anna Politkovskaya: Russian convicted of journalist murder gets pardon,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine spy chief's wife poisoned, says Kyiv","{'cause': 'poisoned', 'effect': ""Ukraine spy chief's wife"", 'is_causal': True}",poisoned,Ukraine spy chief's wife,True
+Ukraine gets European Commission backing for talks on Ukraine membership,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: Sergei Surovikin 'seen in first photo' since Wagner mutiny,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Wagner boss Prigozhin confirmed dead in plane crash - Moscow,"{'cause': 'plane crash', 'effect': 'Wagner boss Prigozhin confirmed dead', 'is_causal': True}",plane crash,Wagner boss Prigozhin confirmed dead,True
+Ukraine war: Romania reveals Russian drone parts hit its territory,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russian celebs at 'almost naked' party stung by backlash,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russian embassy: Australia blocks new Canberra site over spying risk,"{'cause': 'spying risk', 'effect': 'Australia blocks new Canberra site', 'is_causal': True}",spying risk,Australia blocks new Canberra site,True
+Ukraine dam: Thousands flee floods after dam collapse near Nova Kakhovka,"{'cause': 'dam collapse near Nova Kakhovka', 'effect': 'Thousands flee floods', 'is_causal': True}",dam collapse near Nova Kakhovka,Thousands flee floods,True
+Ukraine war: Russia strikes Ukraine grain after ending sea deal,"{'cause': 'ending sea deal', 'effect': 'Russia strikes Ukraine grain', 'is_causal': True}",ending sea deal,Russia strikes Ukraine grain,True
+Ukraine war: Kyiv accuses Russia of shelling Kherson evacuations,"{'cause': 'Russia of shelling', 'effect': 'Kherson evacuations', 'is_causal': True}",Russia of shelling,Kherson evacuations,True
+Poland says Russian missile entered airspace then went into Ukraine,"{'cause': 'Russian missile entered airspace', 'effect': 'went into Ukraine', 'is_causal': True}",Russian missile entered airspace,went into Ukraine,True
+Ukraine war: US to give Kyiv long-range ATACMS missiles - media reports,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Wagner boss Prigozhin is in Russia, Belarus ruler Lukashenko says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine's counter-offensive against Russia under way,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Hungary blocks â‚¬50bn of EU funding for Ukraine,"{'cause': 'Hungary blocks', 'effect': '€50bn of EU funding for Ukraine', 'is_causal': True}",Hungary blocks,€50bn of EU funding for Ukraine,True
+Cuba uncovers Russia-Ukraine war trafficking ring,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Wagner to be declared a terrorist organisation by UK,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Russian air defence system destroyed in Crimea, Ukraine says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Kim Jong Un: North Korea leader enters Russia to visit Putin,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine war must end, South African President Ramaphosa tells Putin","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine dam: What we know about Nova Kakhovka incident,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+What do Vladimir Putin and Tucker Carlson gain from Moscow interview?,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Nato membership for Ukraine a key question at Vilnius summit,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Nato membership for Ukraine a key question at Vilnius summit,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia hikes interest rates to 12% as rouble falls,"{'cause': 'rouble falls', 'effect': 'Russia hikes interest rates to 12%', 'is_causal': True}",rouble falls,Russia hikes interest rates to 12%,True
+Ukraine war: Two people killed in Zaporizhzhia attack,"{'cause': 'Zaporizhzhia attack', 'effect': 'Two people killed', 'is_causal': True}",Zaporizhzhia attack,Two people killed,True
+Ukraine says it has uncovered major arms corruption,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: Seven killed in Russian missile strike on eastern town of Pokrovsk,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine claims Crimea landing for 'special operation' on Independence Day,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+North Korea's Kim Jong Un to stay in Russia for several days,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Bi-2: Russia anti-war band arrested in Thailand faces deportation,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: US to arm Kyiv with depleted uranium tank shells,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Belgorod raid: Insurgents defeated after rare cross-border incursion - Russia,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine dam: Thousands flee floods after dam collapse near Nova Kakhovka,"{'cause': 'dam collapse near Nova Kakhovka', 'effect': 'Thousands flee floods', 'is_causal': True}",dam collapse near Nova Kakhovka,Thousands flee floods,True
+Ukraine's counter-offensive against Russia under way,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Bi-2: Russian anti-war band leaves Thailand for Israel,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+EU to open membership talks with Ukraine and Moldova,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Nova Kakhovka: Who benefits from breaching the dam?,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: First underground school to be built in Kharkiv,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Tucker Carlson interviews Russia's Putin - Kremlin,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: US says Russia using North Korea ballistic missiles,"{'cause': 'Ukraine war', 'effect': 'Russia using North Korea ballistic missiles', 'is_causal': True}",Ukraine war,Russia using North Korea ballistic missiles,True
+"Ukraine war: Russia executed 77 civilians detained by its forces, UN says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia accuses Ukraine of Moscow drone attack,"{'cause': 'Ukraine', 'effect': 'Moscow drone attack', 'is_causal': True}",Ukraine,Moscow drone attack,True
+Ukraine dam: What we know about Nova Kakhovka incident,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+What now for Wagner after Prigozhin's death?,"{'cause': ""Prigozhin's death"", 'effect': 'What now for Wagner', 'is_causal': True}",Prigozhin's death,What now for Wagner,True
+What do Vladimir Putin and Tucker Carlson gain from Moscow interview?,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia returns four Ukrainian children in Qatari deal,"{'cause': 'Qatari deal', 'effect': 'Russia returns four Ukrainian children', 'is_causal': True}",Qatari deal,Russia returns four Ukrainian children,True
+Ukraine war: Wagner-linked senior general Sergei Surovikin 'resting',"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Victoria Amelina: Ukrainian writer dies after Kramatorsk strike,"{'cause': 'Kramatorsk strike', 'effect': 'Ukrainian writer dies', 'is_causal': True}",Kramatorsk strike,Ukrainian writer dies,True
+Darya Trepova: Russian woman jailed for 27 years for cafe bomb killing,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Rishi Sunak says the UK discourages use of cluster bombs in Ukraine,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Zelensky in Washington: Ukrainian president at White House for talks with Biden,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+How Russia reacted after Prigozhin plane crash,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine war: ICC 'undeterred' by arrest warrant for chief prosecutor,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Belgorod: Russia blames Ukraine for shelling inside border,"{'cause': 'Ukraine for shelling inside border', 'effect': 'Russia blames', 'is_causal': True}",Ukraine for shelling inside border,Russia blames,True
+Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russian influencer Ivleeva fined for hosting 'almost naked' party,"{'cause': ""hosting 'almost naked' party"", 'effect': 'Russian influencer Ivleeva fined', 'is_causal': True}",hosting 'almost naked' party,Russian influencer Ivleeva fined,True
+Russia strikes civilian ship in Black Sea port of Odesa - Ukraine,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine's defence minister Oleksii Reznikov dismissed,"{'cause': '', 'effect': '', 'is_causal': False}",,,False

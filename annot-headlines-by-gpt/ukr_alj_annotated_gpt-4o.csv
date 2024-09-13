@@ -1,0 +1,66 @@
+Alj_Title,response,cause,effect,is_causal
+"Who is Rustem Umerov, Ukraine’s next defence minister?","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia and Ukraine complete first prisoner exchange since plane crash,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine officially celebrates Christmas on December 25 for the first time,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine combat drone damages building in central Moscow, Russia says","{'cause': 'Ukraine combat drone', 'effect': 'damages building in central Moscow', 'is_causal': True}",Ukraine combat drone,damages building in central Moscow,True
+Russian convicted over journalist Anna Politkovskaya’s murder pardoned,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine says Marianna Budanova, wife of military spy chief, was poisoned","{'cause': 'was poisoned', 'effect': 'Marianna Budanova, wife of military spy chief', 'is_causal': True}",was poisoned,"Marianna Budanova, wife of military spy chief",True
+Ukraine gets European Commission nod to start EU membership talks,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russian General Surovikin seen in first photo since Wagner mutiny: Reports,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Wagner boss Yevgeny Prigozhin confirmed dead in crash,"{'cause': 'crash', 'effect': 'Wagner boss Yevgeny Prigozhin confirmed dead', 'is_causal': True}",crash,Wagner boss Yevgeny Prigozhin confirmed dead,True
+Romania claims parts of possible Russian drone fell on its territory,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+‘Almost naked’ celebrity party triggers backlash in wartime Russia,"{'cause': '‘Almost naked’ celebrity party', 'effect': 'triggers backlash in wartime Russia', 'is_causal': True}",‘Almost naked’ celebrity party,triggers backlash in wartime Russia,True
+Australia blocks new Russian embassy near parliament in Canberra,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Hundreds flee floods in Ukraine after Nova Kakhovka dam breached,"{'cause': 'Nova Kakhovka dam breached', 'effect': 'Hundreds flee floods in Ukraine', 'is_causal': True}",Nova Kakhovka dam breached,Hundreds flee floods in Ukraine,True
+"After ending deal, Russia warns against Black Sea grain shipments","{'cause': 'After ending deal', 'effect': 'Russia warns against Black Sea grain shipments', 'is_causal': True}",After ending deal,Russia warns against Black Sea grain shipments,True
+Ukraine accuses Russia of shelling rescuers amid dam evacuations,"{'cause': 'Russia of shelling rescuers', 'effect': 'Ukraine accuses', 'is_causal': True}",Russia of shelling rescuers,Ukraine accuses,True
+Poland says Russian missile briefly entered its airspace,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine to receive US long-range ATACMS missiles, US media report","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"After brief exile in Belarus, Wagner boss in Russia: Lukashenko","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine counteroffensive against Russia under way: think tank,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Hungary blocks $54bn EU financial aid for Ukraine,"{'cause': 'Hungary blocks $54bn EU financial aid', 'effect': 'for Ukraine', 'is_causal': True}",Hungary blocks $54bn EU financial aid,for Ukraine,True
+Cuba uncovers network trafficking Cubans to fight for Russia in Ukraine,"{'cause': 'network trafficking Cubans', 'effect': 'Cuba uncovers', 'is_causal': False}",network trafficking Cubans,Cuba uncovers,False
+UK to declare Russia’s Wagner Group a ‘terrorist’ organisation,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine says Russian missile defence destroyed in Crimea, 2 warships hit","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Vladimir Putin accepts Kim Jong Un invitation to North Korea,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"War in Ukraine must stop, South Africa’s Ramaphosa tells Putin","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+All to know about Ukraine’s Nova Kakhovka dam explosion,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Decoding Putin’s ‘obsessive ideas’ in the Tucker Carlson interview,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Full text: NATO Vilnius summit communique,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"NATO membership of Ukraine, Sweden in focus at Vilnius summit","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia’s central bank hikes rates to 12 percent to halt rouble’s slide,"{'cause': 'Russia’s central bank hikes rates to 12 percent', 'effect': 'halt rouble’s slide', 'is_causal': True}",Russia’s central bank hikes rates to 12 percent,halt rouble’s slide,True
+"At least two killed in Russian attack on Zaporizhzhia city, Ukraine says","{'cause': 'Russian attack on Zaporizhzhia city', 'effect': 'At least two killed', 'is_causal': True}",Russian attack on Zaporizhzhia city,At least two killed,True
+Ukraine says it uncovers $40m arms corruption scheme,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"At least 8 killed in Russian missile attack in Pokrovsk, eastern Ukraine","{'cause': 'Russian missile attack in Pokrovsk, eastern Ukraine', 'effect': 'At least 8 killed', 'is_causal': True}","Russian missile attack in Pokrovsk, eastern Ukraine",At least 8 killed,True
+Ukraine says troops landed on Crimea in ‘special operation’,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Vladimir Putin accepts Kim Jong Un invitation to North Korea,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russian rock band critical of Ukraine war faces deportation from Thailand,"{'cause': 'Russian rock band critical of Ukraine war', 'effect': 'faces deportation from Thailand', 'is_causal': True}",Russian rock band critical of Ukraine war,faces deportation from Thailand,True
+Russia blasts ‘inhumanity’ of US sending depleted uranium shells to Ukraine,"{'cause': 'US sending depleted uranium shells to Ukraine', 'effect': ""Russia blasts 'inhumanity'"", 'is_causal': True}",US sending depleted uranium shells to Ukraine,Russia blasts 'inhumanity',True
+Russia claims 70 attackers killed in cross-border Belgorod raid,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine, Russia trade blame for destruction of Nova Kakhovka dam","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Zelenskyy says counteroffensive actions under way against Russia,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Thailand deports dissident Russian rockers to Israel,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Zelenskyy claims ‘victory’ as EU agrees to open Ukraine membership talks,"{'cause': 'EU agrees to open Ukraine membership talks', 'effect': 'Zelenskyy claims ‘victory’', 'is_causal': True}",EU agrees to open Ukraine membership talks,Zelenskyy claims ‘victory’,True
+Full text: NATO Vilnius summit communique,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Ukraine, Russia trade blame for destruction of Nova Kakhovka dam","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukraine to build first underground school to protect from Russian air raids,"{'cause': 'to protect from Russian air raids', 'effect': 'Ukraine to build first underground school', 'is_causal': True}",to protect from Russian air raids,Ukraine to build first underground school,True
+Decoding Putin’s ‘obsessive ideas’ in the Tucker Carlson interview,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Russia used North Korean missiles in Ukraine, US says","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+UN documents summary execution of 77 Ukrainian civilians,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia says it foiled a Ukrainian drone attack on Moscow,"{'cause': 'a Ukrainian drone attack on Moscow', 'effect': 'Russia says it foiled', 'is_causal': True}",a Ukrainian drone attack on Moscow,Russia says it foiled,True
+"Ukraine, Russia trade blame for destruction of Nova Kakhovka dam","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Russia confirms death of Wagner chief Prigozhin after genetic tests,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+What did Vladimir Putin say to Tucker Carlson? Five key takeaways,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Ukrainian children repatriated from Russia through Qatari mediation,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Surovikin: Russian general missing since Wagner mutiny ‘resting’,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+"Victoria Amelina, Ukrainian novelist, killed in Russian attack","{'cause': 'Russian attack', 'effect': 'Victoria Amelina, Ukrainian novelist, killed', 'is_causal': True}",Russian attack,"Victoria Amelina, Ukrainian novelist, killed",True
+Russian court jails woman for 27 years over killing of pro-Kremlin blogger,"{'cause': 'killing of pro-Kremlin blogger', 'effect': 'Russian court jails woman for 27 years', 'is_causal': True}",killing of pro-Kremlin blogger,Russian court jails woman for 27 years,True
+Timeline: Use of controversial cluster bombs in past conflicts,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Zelenskyy culminates Washington visit with a White House pledge of $128m,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
+Will Russia’s Putin benefit from Prigozhin’s presumed plane crash death?,"{'cause': 'Prigozhin’s presumed plane crash death', 'effect': 'Russia’s Putin benefit', 'is_causal': True}",Prigozhin’s presumed plane crash death,Russia’s Putin benefit,True
+ICC war crimes prosecutor ‘wanted’ in Russia over Putin warrant,"{'cause': 'Putin warrant', 'effect': 'ICC war crimes prosecutor ‘wanted’ in Russia', 'is_causal': True}",Putin warrant,ICC war crimes prosecutor ‘wanted’ in Russia,True
+"Russia thwarts more Belgorod attacks, blames Ukraine","{'cause': 'Ukraine', 'effect': 'Russia thwarts more Belgorod attacks', 'is_causal': True}",Ukraine,Russia thwarts more Belgorod attacks,True
+"NATO membership of Ukraine, Sweden in focus at Vilnius summit","{'cause': '', 'effect': '', 'is_causal': False}",,,False
+‘Almost naked’ celebrity party triggers backlash in wartime Russia,"{'cause': ""'Almost naked' celebrity party"", 'effect': 'triggers backlash in wartime Russia', 'is_causal': True}",'Almost naked' celebrity party,triggers backlash in wartime Russia,True
+Ukraine says Russia struck civilian ship near Odesa,"{'cause': 'Russia struck civilian ship near Odesa', 'effect': 'Ukraine says', 'is_causal': True}",Russia struck civilian ship near Odesa,Ukraine says,True
+Ukraine’s Zelenskyy moves to replace Oleksii Reznikov in defence shake-up,"{'cause': '', 'effect': '', 'is_causal': False}",,,False
