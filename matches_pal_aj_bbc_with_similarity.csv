@@ -1,0 +1,349 @@
+,aj_id,aj_date,bbc_id,bbc_date,cosine_similarity,aj_title,bbc_title
+12,0,2024-02-12,1275,2024-02-12,0.8050867319107056,"Israel kills dozens in Rafah strikes, frees two captives",Israel rescues two hostages in Rafah amid deadly strikes - BBC News
+60,3,2024-02-11,1268,2024-02-12,0.7947101593017578,What’s happening in Gaza’s Rafah as Israel threatens to attack?,Israel Gaza: Palestinians sheltering in Rafah fear impending offensive - BBC News
+63,3,2024-02-11,1271,2024-02-12,0.7612568736076355,What’s happening in Gaza’s Rafah as Israel threatens to attack?,Gaza war: What we know about Israel's Rafah hostage rescue raid - BBC News
+70,3,2024-02-11,1278,2024-02-12,0.8240445256233215,What’s happening in Gaza’s Rafah as Israel threatens to attack?,Israel-Gaza war: 'Violent' strikes reported in Gazan city of Rafah - BBC News
+71,3,2024-02-11,1279,2024-02-12,0.8240445256233215,What’s happening in Gaza’s Rafah as Israel threatens to attack?,Israel-Gaza war: 'Violent' strikes reported in Gazan city of Rafah - BBC News
+100,5,2024-02-11,1270,2024-02-12,0.7416821718215942,‘We’re going to do it’: Israeli PM set on invasion of Rafah,"Israelâ€™s assault on Rafah looms, but no plan yet to evacuate civilians - BBC News"
+242,15,2024-02-09,1289,2024-02-09,0.7917522192001343,"Israel ramps up deadly attacks on Gaza’s Rafah despite US, UN warnings",Israel-Gaza war: US says it will not back unplanned Rafah offensive - BBC News
+337,21,2024-02-07,1296,2024-02-08,0.7959936261177063,Paramilitary commander killed in Baghdad drone strike: Reports,US drone strike kills Iran-backed militia leader in Baghdad - BBC News
+482,33,2024-02-06,1304,2024-02-06,0.8451459407806396,"Defiant Houthis claim fresh Red Sea attacks on US, UK ships",Houthis claim new attacks on Red Sea shipping - BBC News
+546,40,2024-02-05,1306,2024-02-05,0.7200708389282227,Attack on Syrian US base kills Kurdish fighters as regional tension simmers,Drone attack kills six Kurdish-led fighters at US base in east Syria - BBC News
+554,41,2024-02-04,1308,2024-02-05,0.8562391996383667,US-UK strikes on Yemen’s Houthis: What we know so far,US launches more strikes against Houthis in Yemen - BBC News
+555,41,2024-02-04,1310,2024-02-04,0.8180712461471558,US-UK strikes on Yemen’s Houthis: What we know so far,Grant Shapps says UK and US strikes on Yemen Houthis 'not an escalation' - BBC News
+574,43,2024-02-04,1308,2024-02-05,0.8252623081207275,"US, UK launch new wave of strikes on Yemen’s Houthis amid Gaza war",US launches more strikes against Houthis in Yemen - BBC News
+575,43,2024-02-04,1310,2024-02-04,0.7026535272598267,"US, UK launch new wave of strikes on Yemen’s Houthis amid Gaza war",Grant Shapps says UK and US strikes on Yemen Houthis 'not an escalation' - BBC News
+604,46,2024-02-03,1311,2024-02-04,0.7302500009536743,"‘Strategic error’: Iran condemns US attacks on Iraq, Syria",Iran says US strikes are a 'strategic mistake' - BBC News
+688,52,2024-02-02,1320,2024-02-02,0.7264593243598938,US to hit back against Iran-linked targets: Who and where will it strike?,"US approves plan to strike Iranian targets in Syria and Iraq, officials say - BBC News"
+700,53,2024-02-02,1318,2024-02-02,0.8990858793258667,Turkey arrests seven suspected of selling information to Israel’s Mossad,Turkey Israel: 'Seven arrested for passing information to Mossad' - BBC News
+711,54,2024-02-02,1314,2024-02-03,0.7164585590362549,"US approves plan for strikes on Iran-linked targets in Iraq, Syria: Report",What we know about US retaliatory strikes in Iraq and Syria - BBC News
+716,54,2024-02-02,1320,2024-02-02,0.94070565700531,"US approves plan for strikes on Iran-linked targets in Iraq, Syria: Report","US approves plan to strike Iranian targets in Syria and Iraq, officials say - BBC News"
+727,55,2024-02-01,1321,2024-02-01,0.9448922872543336,US imposes sanctions on four Israeli settlers over West Bank violence,US sanctions Israeli settlers over West Bank violence - BBC News
+901,64,2024-01-30,1334,2024-01-30,0.7314877510070801,Hamas studying three-phase Gaza truce plan as Israeli hardliners warn PM,Hamas says it is studying proposal for new pause in Gaza fighting - BBC News
+929,65,2024-01-30,1337,2024-01-30,0.960321307182312,Israeli forces kill three Palestinians in West Bank hospital raid,Israeli forces kill three Palestinian fighters in West Bank hospital raid - BBC News
+1015,69,2024-01-29,1345,2024-01-29,0.9086059927940368,"What is Tower 22, the Jordan-based US outpost targeted in a drone strike?",US drone attack: What is Tower 22 and why are US troops in Jordan? - BBC News
+1116,74,2024-01-29,1346,2024-01-29,0.8687024116516113,Iran denies involvement in drone attack that killed 3 US soldiers in Jordan,Iran denies involvement in drone strike that killed three US troops - BBC News
+1161,77,2024-01-28,1340,2024-01-29,0.701065182685852,"Three US service members killed in Jordan drone attack, Biden says",Three US soldiers killed in Jordan attack named - BBC News
+1172,77,2024-01-28,1351,2024-01-29,0.7061991691589355,"Three US service members killed in Jordan drone attack, Biden says",US drone attack: Three US troops killed in drone strike on US base in Middle East - BBC News
+1253,83,2024-01-27,1358,2024-01-26,0.7462565302848816,UN Security Council to discuss ICJ ruling in Israel genocide case,ICJ says Israel must prevent genocide in Gaza - BBC News
+1280,86,2024-01-27,1358,2024-01-26,0.7293530702590942,ICJ ruling in Gaza genocide case renews calls to end Israel arms transfers,ICJ says Israel must prevent genocide in Gaza - BBC News
+1282,86,2024-01-27,1361,2024-01-26,0.7911092042922974,ICJ ruling in Gaza genocide case renews calls to end Israel arms transfers,Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1331,91,2024-01-26,1357,2024-01-26,0.8131372332572937,"What has the ICJ ordered Israel to do on Gaza war, and what’s next?",Israel reined in by ICJ rulings on Gaza - but will it obey? - BBC News
+1332,91,2024-01-26,1358,2024-01-26,0.7749440670013428,"What has the ICJ ordered Israel to do on Gaza war, and what’s next?",ICJ says Israel must prevent genocide in Gaza - BBC News
+1334,91,2024-01-26,1361,2024-01-26,0.8466242551803589,"What has the ICJ ordered Israel to do on Gaza war, and what’s next?",Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1343,92,2024-01-26,1357,2024-01-26,0.7074546217918396,World reacts to ICJ interim ruling in Gaza genocide case against Israel,Israel reined in by ICJ rulings on Gaza - but will it obey? - BBC News
+1344,92,2024-01-26,1358,2024-01-26,0.7666823863983154,World reacts to ICJ interim ruling in Gaza genocide case against Israel,ICJ says Israel must prevent genocide in Gaza - BBC News
+1346,92,2024-01-26,1361,2024-01-26,0.7008896470069885,World reacts to ICJ interim ruling in Gaza genocide case against Israel,Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1355,93,2024-01-26,1357,2024-01-26,0.7825555205345154,ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,Israel reined in by ICJ rulings on Gaza - but will it obey? - BBC News
+1356,93,2024-01-26,1358,2024-01-26,0.9208986163139344,ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,ICJ says Israel must prevent genocide in Gaza - BBC News
+1358,93,2024-01-26,1361,2024-01-26,0.8122269511222839,ICJ rules Israel must prevent acts of genocide in Gaza: Key takeaways,Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1367,94,2024-01-26,1357,2024-01-26,0.7768145203590393,ICJ orders Israel to prevent acts of genocide in Gaza,Israel reined in by ICJ rulings on Gaza - but will it obey? - BBC News
+1368,94,2024-01-26,1358,2024-01-26,0.9129803776741028,ICJ orders Israel to prevent acts of genocide in Gaza,ICJ says Israel must prevent genocide in Gaza - BBC News
+1370,94,2024-01-26,1361,2024-01-26,0.8300775289535522,ICJ orders Israel to prevent acts of genocide in Gaza,Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1379,95,2024-01-26,1357,2024-01-26,0.8127132058143616,What the ICJ’s interim ruling means for Israel’s war on Gaza,Israel reined in by ICJ rulings on Gaza - but will it obey? - BBC News
+1380,95,2024-01-26,1358,2024-01-26,0.7501367330551147,What the ICJ’s interim ruling means for Israel’s war on Gaza,ICJ says Israel must prevent genocide in Gaza - BBC News
+1382,95,2024-01-26,1361,2024-01-26,0.8392491936683655,What the ICJ’s interim ruling means for Israel’s war on Gaza,Gaza war: ICJ to rule on call for Israel to stop military action - BBC News
+1493,104,2024-01-25,1362,2024-01-25,0.8540537357330322,Qatar ‘appalled’ at alleged Netanyahu criticism of mediation in Gaza war,Qatar 'appalled' by reported criticism from Israel's Netanyahu - BBC News
+1644,112,2024-01-24,1377,2024-01-23,0.8316860198974609,"US carries out new strikes on Houthi missiles in Yemen, Iraq sites",US and UK launch fresh strikes on Houthis in Yemen - BBC News
+1645,112,2024-01-24,1378,2024-01-23,0.7340291738510132,"US carries out new strikes on Houthi missiles in Yemen, Iraq sites",Latest US-UK strikes on Houthis in Yemen were self-defence - Sunak - BBC News
+1686,115,2024-01-23,1371,2024-01-23,0.7594914436340332,Israeli military ‘encircles’ Khan Younis after 24 soldiers killed in Gaza,Khan Younis: Israel says forces have encircled Gaza's second city - BBC News
+1743,118,2024-01-22,1381,2024-01-22,0.7211576700210571,US demands ‘urgent’ Israeli probe into Palestinian-American child’s death,US demands Israel conduct full investigation into Palestinian-American teen's killing - BBC News
+1942,130,2024-01-21,1387,2024-01-21,0.7706332206726074,Israel’s Netanyahu doubles down on opposition to Palestinian statehood,Israel-Gaza: Netanyahu defies Biden over Palestinian state - BBC News
+2192,144,2024-01-18,1395,2024-01-19,0.721436619758606,Israel’s Netanyahu reiterates rejection of Palestinian state after Gaza war,Eisenkot: Key Israeli war leader challenges Netanyahu over Gaza strategy - BBC News
+2198,144,2024-01-18,1401,2024-01-19,0.7804350852966309,Israel’s Netanyahu reiterates rejection of Palestinian state after Gaza war,Netanyahu publicly rejects US push for Palestinian state - BBC News
+2286,148,2024-01-18,1409,2024-01-17,0.7610620260238647,What the designation of ‘terrorist’ means for Yemen’s Houthis,Yemen strikes: Houthis hit US-owned ship after 'terror' designation - BBC News
+2325,150,2024-01-18,1408,2024-01-18,0.9240208864212036,US launches new strikes on Houthi targets in Yemen,US launches fourth round of strikes on Houthi targets in Yemen - BBC News
+2326,150,2024-01-18,1409,2024-01-17,0.7624505758285522,US launches new strikes on Houthi targets in Yemen,Yemen strikes: Houthis hit US-owned ship after 'terror' designation - BBC News
+2342,151,2024-01-18,1405,2024-01-18,0.7438884973526001,Pakistan missiles strike Iran in retaliatory bombing as tensions soar,"Pakistan launches retaliatory strikes into Iran, killing nine people - BBC News"
+2348,151,2024-01-18,1411,2024-01-17,0.7123445272445679,Pakistan missiles strike Iran in retaliatory bombing as tensions soar,Iran admits carrying out deadly strike on Pakistan territory - BBC News
+2373,153,2024-01-17,1403,2024-01-18,0.7873902916908264,Israel ramps up attacks on Khan Younis as aid for Gaza arrives in Egypt,Israeli troops push deep into Gaza's southern city of Khan Younis - BBC News
+2400,154,2024-01-17,1409,2024-01-17,0.7907893061637878,US designates Yemen’s Houthis as ‘global terrorists’,Yemen strikes: Houthis hit US-owned ship after 'terror' designation - BBC News
+2449,156,2024-01-17,1416,2024-01-16,0.8176609873771667,Aid headed into Gaza after Israel-Hamas seal first deal since truce ended,"Israel Gaza war: Deal reached on aid to Gaza, including to hostages - BBC News"
+2568,162,2024-01-16,1409,2024-01-17,0.8122408390045166,Yemen’s Houthis claim attack on ship in Red Sea as US confirms new strike,Yemen strikes: Houthis hit US-owned ship after 'terror' designation - BBC News
+2622,164,2024-01-16,1409,2024-01-17,0.7373557090759277,US claims seizure of Iranian weapons bound for Yemen’s Houthis,Yemen strikes: Houthis hit US-owned ship after 'terror' designation - BBC News
+2681,166,2024-01-15,1420,2024-01-16,0.7122476100921631,Iran launches missile strikes in Iraq and Syria citing security threats,US condemns Iran for 'reckless' missile strikes on northern Iraq - BBC News
+2767,169,2024-01-15,1422,2024-01-16,0.7045237421989441,"Yemen’s Houthis hit US-owned ship in missile attack, US military says",Houthi missile hits US-owned container ship in Gulf of Aden - BBC News
+2777,169,2024-01-15,1433,2024-01-15,0.8172249794006348,"Yemen’s Houthis hit US-owned ship in missile attack, US military says",Yemen: US shoots down missile from Houthi-run area fired towards warship - BBC News
+2799,170,2024-01-15,1426,2024-01-15,0.8114163279533386,"At least one killed, 17 wounded in alleged car-ramming attacks in Israel","Israel: Woman killed, 17 hurt in suspected Palestinian car-ramming attack - BBC News"
+2973,176,2024-01-15,1433,2024-01-15,0.8361970782279968,US says it shot down Houthi missile in first attack since strikes on Yemen,Yemen: US shoots down missile from Houthi-run area fired towards warship - BBC News
+3173,184,2024-01-13,1458,2024-01-12,0.7184481620788574,US launches new strikes on Yemen’s Houthis as conflict escalates,"UK and US strikes on Houthi sites in Yemen are self-defence, says Rishi Sunak - BBC News"
+3200,186,2024-01-12,1444,2024-01-13,0.7028094530105591,‘Dangerous’: US attacks on Yemen’s Houthis belie push for de-escalation,Yemen strikes 'embolden' extremists - former ambassador - BBC News
+3302,190,2024-01-12,1454,2024-01-12,0.7330299615859985,What is South Africa’s five-point ICJ argument against Israel?,Israel says South Africa distorting the truth in ICJ genocide case - BBC News
+3329,191,2024-01-12,1458,2024-01-12,0.776405930519104,"World reacts to US, UK attacks on Houthi targets in Yemen","UK and US strikes on Houthi sites in Yemen are self-defence, says Rishi Sunak - BBC News"
+3375,193,2024-01-12,1458,2024-01-12,0.7376856803894043,US and UK launch strikes against Yemen; Houthi rebels promise to retaliate,"UK and US strikes on Houthi sites in Yemen are self-defence, says Rishi Sunak - BBC News"
+3445,197,2024-01-11,1450,2024-01-12,0.804320216178894,Day one of the ICJ genocide hearing against Israel: Key takeaways,South Africa's genocide case against Israel: Both sides play heavy on emotion in ICJ hearing - BBC News
+3449,197,2024-01-11,1454,2024-01-12,0.7469489574432373,Day one of the ICJ genocide hearing against Israel: Key takeaways,Israel says South Africa distorting the truth in ICJ genocide case - BBC News
+3485,199,2024-01-11,1450,2024-01-12,0.8610070943832397,ICJ hears South Africa’s genocide case against Israel over Gaza war,South Africa's genocide case against Israel: Both sides play heavy on emotion in ICJ hearing - BBC News
+3489,199,2024-01-11,1454,2024-01-12,0.8603886365890503,ICJ hears South Africa’s genocide case against Israel over Gaza war,Israel says South Africa distorting the truth in ICJ genocide case - BBC News
+3519,200,2024-01-11,1464,2024-01-11,0.8004077672958374,Iran seizes oil tanker off Oman in dispute with US,Iran seizes oil tanker St Nikolas near Oman - BBC News
+3585,204,2024-01-11,1450,2024-01-12,0.74772709608078,A quick guide to South Africa’s ICJ case against Israel,South Africa's genocide case against Israel: Both sides play heavy on emotion in ICJ hearing - BBC News
+3589,204,2024-01-11,1454,2024-01-12,0.7980422377586365,A quick guide to South Africa’s ICJ case against Israel,Israel says South Africa distorting the truth in ICJ genocide case - BBC News
+3731,212,2024-01-09,1470,2024-01-09,0.7959641218185425,British FM ‘worried’ Israel may have breached international law in Gaza,David Cameron worried Israel may have broken international law in Gaza - BBC News
+3769,214,2024-01-09,1476,2024-01-09,0.8678793907165527,Blinken says civilian death toll in Gaza ‘far too high’,"Daily toll on Gazan civilians, especially children, 'far too high' - Blinken - BBC News"
+3771,214,2024-01-09,1478,2024-01-08,0.700432538986206,Blinken says civilian death toll in Gaza ‘far too high’,Antony Blinken: On the US mission to stop Gaza igniting wider war - BBC News
+3866,220,2024-01-08,1479,2024-01-08,0.732882022857666,Hezbollah says Israel kills top commander amid fears of Gaza war escalation,Suspected Israeli strike in Lebanon kills senior Hezbollah commander - BBC News
+3869,220,2024-01-08,1482,2024-01-08,0.7873857021331787,Hezbollah says Israel kills top commander amid fears of Gaza war escalation,Israel Gaza: Senior Hezbollah commander killed in apparent Israeli strike on Lebanon - BBC News
+3907,223,2024-01-07,1481,2024-01-08,0.8457524180412292,Blinken says Palestinians displaced in Gaza must be able to return home,Palestinians must be able to stay in Gaza - Blinken - BBC News
+3924,225,2024-01-07,1480,2024-01-08,0.8873414397239685,"Hamza, son of Al Jazeera’s Wael Dahdouh, killed in Israeli attack in Gaza",Al Jazeera bureau chief's son Hamza al-Dahdouh among journalists killed in Gaza - BBC News
+4043,238,2024-01-05,1485,2024-01-06,0.8282191157341003,"Israel’s war on Gaza: List of key events, day 91",Israel-Gaza war: The huge challenges facing Israel's 'day after' plan - BBC News
+4055,239,2024-01-04,1488,2024-01-05,0.7659164667129517,Israeli defence minister outlines new phase in Gaza war,Israeli minister outlines plans for Gaza after war - BBC News
+4163,246,2024-01-03,1495,2024-01-04,0.798702597618103,US-led coalition warns Houthis of ‘consequences’ after Red Sea attacks,Houthis defiant after warning over Red Sea attacks - BBC News
+4234,250,2024-01-03,1502,2024-01-02,0.8214861750602722,Who were the Hamas officials killed in Beirut?,Who was Hamas leader Saleh al-Arouri killed in Beirut? - BBC News
+4303,255,2024-01-03,1491,2024-01-04,0.7954561710357666,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",Saleh al-Arouri: Thousands attend Hamas deputy leader's funeral in Beirut - BBC News
+4308,255,2024-01-03,1496,2024-01-03,0.765989363193512,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?","Saleh al-Arouri: Hamas leader's death 'won't go unpunished', says Hezbollah chief - BBC News"
+4310,255,2024-01-03,1498,2024-01-03,0.7655723094940186,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",Hamas deputy leader Saleh al-Arouri's assassination sparks wider war fears - BBC News
+4311,255,2024-01-03,1499,2024-01-03,0.8716899752616882,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",Hamas deputy leader Saleh al-Arouri killed in Beirut blast - BBC News
+4314,255,2024-01-03,1502,2024-01-02,0.992473602294922,"Who was Saleh al-Arouri, the Hamas leader killed in Beirut?",Who was Hamas leader Saleh al-Arouri killed in Beirut? - BBC News
+4333,257,2024-01-02,1496,2024-01-03,0.7634795308113098,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,"Saleh al-Arouri: Hamas leader's death 'won't go unpunished', says Hezbollah chief - BBC News"
+4335,257,2024-01-02,1498,2024-01-03,0.7608435153961182,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,Hamas deputy leader Saleh al-Arouri's assassination sparks wider war fears - BBC News
+4336,257,2024-01-02,1499,2024-01-03,0.9294995665550232,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,Hamas deputy leader Saleh al-Arouri killed in Beirut blast - BBC News
+4339,257,2024-01-02,1502,2024-01-02,0.8937469124794006,Senior Hamas official Saleh al-Arouri killed in Beirut suburb,Who was Hamas leader Saleh al-Arouri killed in Beirut? - BBC News
+4354,258,2024-01-02,1503,2024-01-02,0.7780380845069885,Israel promises to fight South Africa genocide accusation at ICJ,Israel to fight South Africa's Gaza genocide claim in court - BBC News
+4397,261,2024-01-02,1504,2024-01-02,0.7992954850196838,Turkey arrests dozens suspected of spying for Israel,Turkey detains 34 on suspicion of spying for Israel - BBC News
+4451,265,2024-01-01,1508,2024-01-01,0.7025837898254395,Israel says it will pull out thousands of troops from Gaza,Israel says war in Gaza expected to continue throughout 2024 - BBC News
+4581,282,2023-12-29,1514,2023-12-29,0.937341332435608,South Africa files case at ICJ accusing Israel of ‘genocidal acts’ in Gaza,South Africa files ICJ case accusing Israel of 'genocidal acts' - BBC News
+4592,283,2023-12-29,1516,2023-12-29,0.7803330421447754,Tens of thousands forced to flee again as Israel expands Gaza offensive,Thousands of Palestinians flee central Gaza as Israeli troops advance - BBC News
+4632,288,2023-12-29,1511,2023-12-30,0.7147200107574463,UN deplores aid barriers as Israel’s Gaza onslaught steps up,"Israel-Gaza war: Displaced Gazans 'living in the open', UN says - BBC News"
+4633,288,2023-12-29,1512,2023-12-30,0.7022852897644043,UN deplores aid barriers as Israel’s Gaza onslaught steps up,Many Gazans 'living in the open' UN says - BBC News
+4714,299,2023-12-27,1518,2023-12-28,0.7271131277084351,Israeli strikes kill Hezbollah fighter as violence on Lebanon border grows,Israel Gaza war: Israel warns Hezbollah and Lebanon over border fighting - BBC News
+4852,313,2023-12-25,1527,2023-12-25,0.8470371961593628,Israeli air strike in Syria kills top Iranian military adviser,"Israeli strike in Syria kills Iranian commander, Iran says - BBC News"
+5047,329,2023-12-23,1538,2023-12-22,0.7531520128250122,Famine by February: How bad is Gaza’s hunger crisis under Israeli attacks?,"Gaza facing famine if fighting continues, UN says - BBC News"
+5094,333,2023-12-22,1536,2023-12-22,0.7448920607566833,UN Security Council passes resolution on increased Gaza aid delivery,"UN Security Council backs ramping up Gaza aid, but no ceasefire - BBC News"
+5098,333,2023-12-22,1540,2023-12-22,0.8592536449432373,UN Security Council passes resolution on increased Gaza aid delivery,UN Security Council demands Gaza aid deliveries at scale - BBC News
+5099,333,2023-12-22,1541,2023-12-22,0.7698320150375366,UN Security Council passes resolution on increased Gaza aid delivery,Israel-Gaza war: US backs UN Security Council vote on Gaza aid boost - BBC News
+5123,335,2023-12-22,1541,2023-12-22,0.7142249941825867,What’s the latest UN Gaza resolution that the US has agreed to?,Israel-Gaza war: US backs UN Security Council vote on Gaza aid boost - BBC News
+5135,336,2023-12-22,1541,2023-12-22,0.7706460952758789,US ready to back diluted resolution on more aid to Gaza as UN vote delayed,Israel-Gaza war: US backs UN Security Council vote on Gaza aid boost - BBC News
+5155,338,2023-12-21,1538,2023-12-22,0.7867573499679565,"Entire Gaza population facing hunger crisis, famine risk: UN-backed report","Gaza facing famine if fighting continues, UN says - BBC News"
+5176,339,2023-12-21,1542,2023-12-22,0.7161825299263,"Israel’s war on Gaza deadliest in modern history for journalists, CPJ says",False claims of staged deaths surge in Israel-Gaza war - BBC News
+5180,339,2023-12-21,1546,2023-12-20,0.7709001302719116,"Israel’s war on Gaza deadliest in modern history for journalists, CPJ says",Israel Gaza: What Gaza's death toll says about the war - BBC News
+5289,346,2023-12-21,1536,2023-12-22,0.7014211416244507,"UNSC struggles with Gaza truce vote delays, Israel orders mass evacuations","UN Security Council backs ramping up Gaza aid, but no ceasefire - BBC News"
+5304,346,2023-12-21,1551,2023-12-20,0.8059442043304443,"UNSC struggles with Gaza truce vote delays, Israel orders mass evacuations",Israel Gaza: Negotiations delay UN vote urging pause in fighting - BBC News
+5375,352,2023-12-20,1549,2023-12-20,0.7124041318893433,Hamas head in Cairo as momentum builds towards new Israel-Hamas truce talks,Talks on new pause in Gaza war gain urgency as Hamas chief visits Cairo - BBC News
+5429,356,2023-12-19,1560,2023-12-18,0.712382435798645,‘We have a duty’: US doctor says ceasefire an ‘ethical imperative’ in Gaza,Israel-Gaza war: Man on hunger strike hospitalised calling for ceasefire - BBC News
+5484,360,2023-12-19,1551,2023-12-20,0.7100851535797119,UN Security Council in intense negotiations on Gaza humanitarian resolution,Israel Gaza: Negotiations delay UN vote urging pause in fighting - BBC News
+5497,361,2023-12-18,1554,2023-12-18,0.8230431079864502,Hamas video shows elderly Israeli captives pleading for release,Israel Gaza: Hamas releases video showing three elderly Israeli hostages - BBC News
+5539,363,2023-12-18,1558,2023-12-18,0.760350227355957,Captives mistakenly killed by Israeli troops left SOS signs in Hebrew,Israel Gaza: Hostages shot by IDF put out 'SOS' sign written with leftover food - BBC News
+5576,365,2023-12-18,1557,2023-12-18,0.7938494682312012,President el-Sisi declared victorious in Egypt election,Egypt election: President Sisi wins third term - BBC News
+5636,368,2023-12-18,1560,2023-12-18,0.7050193548202515,‘Bloodbath’: Israel continues to target Gaza hospitals and civilians,Israel-Gaza war: Man on hunger strike hospitalised calling for ceasefire - BBC News
+5650,369,2023-12-17,1555,2023-12-18,0.7109242677688599,At least 90 killed in latest Israeli attacks on Gaza’s Jabalia refugee camp,Gaza health ministry says Israeli strikes kill 110 in Jabalia - BBC News
+6061,386,2023-12-15,1576,2023-12-16,0.851609468460083,Israeli army says it mistakenly killed three captives held in Gaza,Israel hostages: IDF says it mistakenly killed three men held in Gaza - BBC News
+6073,386,2023-12-15,1588,2023-12-15,0.8350911736488342,Israeli army says it mistakenly killed three captives held in Gaza,Israel says it mistakenly killed three hostages in Gaza campaign - BBC News
+6076,387,2023-12-15,1571,2023-12-16,0.8278186321258545,Al Jazeera condemns Israeli forces killing of cameraman Samer Abudaqa,Samer Abudaqa: Al Jazeera cameraman killed in Gaza drone strike - BBC News
+6152,391,2023-12-15,1571,2023-12-16,0.8198202252388,Al Jazeera journalist Samer Abudaqa killed in Israeli attack in Gaza,Samer Abudaqa: Al Jazeera cameraman killed in Gaza drone strike - BBC News
+6210,394,2023-12-15,1572,2023-12-16,0.7524129748344421,Shipping companies pause Red Sea journeys after Houthi attacks,More big shipping firms stop Red Sea routes after attacks - BBC News
+6215,394,2023-12-15,1578,2023-12-15,0.8468921184539795,Shipping companies pause Red Sea journeys after Houthi attacks,Shipping firms pause Red Sea journeys over attacks - BBC News
+6606,414,2023-12-13,1595,2023-12-13,0.7744085192680359,UNGA demands ceasefire in Israel’s war on Gaza: How your country voted,Israel Gaza: UN General Assembly demands immediate ceasefire - BBC News
+6621,415,2023-12-12,1596,2023-12-12,0.8647211194038391,Biden warns Israel risks losing support over ‘indiscriminate’ Gaza bombing,"Israel losing global support over Gaza bombing, Biden says - BBC News"
+6646,416,2023-12-12,1608,2023-12-11,0.731140673160553,What is the situation in Gaza’s Khan Younis as Israel intensifies attacks?,Tanks push further into Khan Younis as Israel pounds north Gaza - BBC News
+6719,421,2023-12-12,1598,2023-12-12,0.8661215901374817,Yemen’s Houthis claim missile attack on Norwegian ship Strinda,MK Strinda: Yemen's rebel Houthis hit Norwegian tanker with missile - BBC News
+6998,443,2023-12-09,1610,2023-12-10,0.7658388018608093,‘People are starving’: WFP says humanitarian operation in Gaza ‘collapsing’,"Israel-Gaza war: Half of Gaza's population is starving, warns UN - BBC News"
+7106,449,2023-12-08,1615,2023-12-08,0.7411484718322754,US vetoes UN resolution calling for Gaza ceasefire,Bowen: US uses veto but pressure for Gaza ceasefire is building - BBC News
+7177,452,2023-12-08,1617,2023-12-08,0.8463540077209473,Palestinians mourn poet Refaat Alareer killed in Israeli air strike,Refaat Alareer: Palestinians mourn writer killed in air strike - BBC News
+7490,465,2023-12-07,1623,2023-12-07,0.7224166989326477,Israel should face war crimes probe over journalist death in Lebanon: NGOs,Issam Abdallah: Rights groups want Israel investigated over killed journalist - BBC News
+7671,472,2023-12-06,1632,2023-12-07,0.7459931373596191,Putin makes rare trip to Middle East to meet with UAE and Saudi leaders,Putin makes rare foreign trip to Gulf states - BBC News
+7779,476,2023-12-06,1644,2023-12-05,0.7318889498710632,"Israel army in most intense combat in Gaza war, no safe place to evacuate",Israel's new Gaza evacuation zones leave Palestinians few places to go - BBC News
+7891,481,2023-12-05,1653,2023-12-05,0.8237812519073486,Israeli army surrounds Khan Younis as southern Gaza attacks intensify,Israel says troops in 'heart of Khan Younis' after bombarding south Gaza - BBC News
+8060,491,2023-12-04,1644,2023-12-05,0.8216184973716736,"Israel asks Palestinians to evacuate, but is any place safe in Gaza?",Israel's new Gaza evacuation zones leave Palestinians few places to go - BBC News
+8062,491,2023-12-04,1646,2023-12-04,0.7193371653556824,"Israel asks Palestinians to evacuate, but is any place safe in Gaza?",Israel orders evacuations from city in south Gaza as offensive widens - BBC News
+8112,495,2023-12-04,1644,2023-12-05,0.7674311995506287,Israel orders evacuations as onslaught on Gaza widens,Israel's new Gaza evacuation zones leave Palestinians few places to go - BBC News
+8114,495,2023-12-04,1646,2023-12-04,0.9081114530563354,Israel orders evacuations as onslaught on Gaza widens,Israel orders evacuations from city in south Gaza as offensive widens - BBC News
+8120,495,2023-12-04,1652,2023-12-03,0.7092443704605103,Israel orders evacuations as onslaught on Gaza widens,Israeli forces pushing into south Gaza - BBC News
+8320,511,2023-12-02,1663,2023-12-01,0.7247954607009888,How Democrats are alienating their base by blasting a Gaza war ceasefire,Why has the Gaza ceasefire come to an end? - BBC News
+8421,516,2023-12-01,1663,2023-12-01,0.7554722428321838,The Israel-Hamas truce has ended: What we know so far,Why has the Gaza ceasefire come to an end? - BBC News
+8431,516,2023-12-01,1673,2023-11-30,0.769339382648468,The Israel-Hamas truce has ended: What we know so far,Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+8453,517,2023-12-01,1673,2023-11-30,0.7093687653541565,Mediators push to renew truce as Israel-Hamas war resumes in Gaza,Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+8504,520,2023-12-01,1658,2023-12-01,0.7229452729225159,"Analysis: Why Israel’s military wanted to end the Gaza truce, and what now?",Gaza's fear and anger as ceasefire ends and fighting erupts - BBC News
+8509,520,2023-12-01,1663,2023-12-01,0.8190568685531616,"Analysis: Why Israel’s military wanted to end the Gaza truce, and what now?",Why has the Gaza ceasefire come to an end? - BBC News
+8519,520,2023-12-01,1673,2023-11-30,0.7153226137161255,"Analysis: Why Israel’s military wanted to end the Gaza truce, and what now?",Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+8547,522,2023-11-30,1660,2023-12-01,0.7561189532279968,Blinken urges Israel to protect civilians amid tough Gaza truce talks,Blinken steps up call for Israel to spare civilians in strongest remarks yet - BBC News
+8662,527,2023-11-30,1666,2023-11-30,0.8561893701553345,"Three killed, several injured in shooting at Jerusalem bus stop",Three Israelis killed by Palestinian gunmen at Jerusalem bus stop - BBC News
+8749,531,2023-11-29,1673,2023-11-30,0.7123836278915405,Analysis: Why extending the Israel-Hamas truce won’t be easy,Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+8791,533,2023-11-29,1671,2023-11-30,0.7063955664634705,Freed Israeli hostages tell families of ordeal in Gaza captivity,Bedouin family desperate for news on teenagers held hostage in Gaza - BBC News
+8793,533,2023-11-29,1673,2023-11-30,0.7257518768310547,Freed Israeli hostages tell families of ordeal in Gaza captivity,Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+8797,533,2023-11-29,1678,2023-11-30,0.8051292896270752,Freed Israeli hostages tell families of ordeal in Gaza captivity,Eight Israeli hostages freed by Hamas in Gaza - BBC News
+8806,533,2023-11-29,1687,2023-11-28,0.717471718788147,Freed Israeli hostages tell families of ordeal in Gaza captivity,Israel Gaza: Three-year-old-twins among hostages released by Hamas - BBC News
+8807,533,2023-11-29,1698,2023-11-28,0.7073298692703247,Freed Israeli hostages tell families of ordeal in Gaza captivity,Israel says 12 more hostages released by Hamas have left Gaza - BBC News
+8816,534,2023-11-29,1675,2023-11-29,0.8599587082862854,Israeli forces kill two Palestinian children in occupied West Bank raid,Two Palestinian boys killed during Israeli raid in West Bank - BBC News
+8947,540,2023-11-29,1673,2023-11-30,0.7258533239364624,Israel-Hamas truce: How much aid has entered Gaza?,Israel-Hamas truce in Gaza extended as more hostages freed - BBC News
+9018,543,2023-11-28,1686,2023-11-28,0.7260158061981201,Hamas releases 12 more captives as truce with Israel holds for fifth day,Israel Gaza: 33 Palestinians released on fourth day of truce - BBC News
+9030,543,2023-11-28,1698,2023-11-28,0.7667282223701477,Hamas releases 12 more captives as truce with Israel holds for fifth day,Israel says 12 more hostages released by Hamas have left Gaza - BBC News
+9066,545,2023-11-28,1686,2023-11-28,0.7531304359436035,Israel arrests almost as many Palestinians as it has released during truce,Israel Gaza: 33 Palestinians released on fourth day of truce - BBC News
+9110,547,2023-11-28,1682,2023-11-28,0.8967176675796509,"Disease could kill more in Gaza than bombs, WHO says amid Israeli siege","Untreated diseases could kill more than bombings in Gaza, WHO warns - BBC News"
+9141,548,2023-11-28,1689,2023-11-27,0.7834165096282959,What do we know about the Israel-Hamas truce extension?,"Israel-Hamas truce in Gaza extended for two days, Qatar says - BBC News"
+9162,549,2023-11-28,1686,2023-11-28,0.7055419683456421,Gaza truce appears set to extend as Israel receives new list of captives,Israel Gaza: 33 Palestinians released on fourth day of truce - BBC News
+9165,549,2023-11-28,1689,2023-11-27,0.7013275623321533,Gaza truce appears set to extend as Israel receives new list of captives,"Israel-Hamas truce in Gaza extended for two days, Qatar says - BBC News"
+9220,551,2023-11-27,1698,2023-11-28,0.824242353439331,"Hamas releases 11 more captives from Gaza, Israeli army says",Israel says 12 more hostages released by Hamas have left Gaza - BBC News
+9227,551,2023-11-27,1708,2023-11-26,0.7991698384284973,"Hamas releases 11 more captives from Gaza, Israeli army says",Israel releases 39 Palestinian prisoners after Hamas hands over 17 hostages - BBC News
+9237,552,2023-11-27,1689,2023-11-27,0.9349819421768188,"Israel and Hamas agree to extend truce by two days, Qatar says","Israel-Hamas truce in Gaza extended for two days, Qatar says - BBC News"
+9372,557,2023-11-27,1694,2023-11-27,0.7338378429412842,US Navy thwarts seizure of Israel-linked cargo ship,US Navy seizes attackers who held Israel-linked tanker - BBC News
+9514,563,2023-11-26,1701,2023-11-26,0.7221102714538574,Israeli forces carry out deadly raids in the West Bank amid Gaza truce,West Bank: Eight Palestinians killed during Israeli raid - BBC News
+9528,564,2023-11-25,1703,2023-11-26,0.761201024055481,"Hamas releases 13 Israeli, four Thai captives after hours-long delay",More hostages released by Hamas despite agonising delay - BBC News
+9533,564,2023-11-25,1708,2023-11-26,0.7581084966659546,"Hamas releases 13 Israeli, four Thai captives after hours-long delay",Israel releases 39 Palestinian prisoners after Hamas hands over 17 hostages - BBC News
+9605,569,2023-11-25,1705,2023-11-25,0.7805547714233398,‘Nothing standing’: Palestinians return to find Gaza homes destroyed,Gaza truce: Palestinians search for loved ones and check damaged homes - BBC News
+9696,575,2023-11-24,1712,2023-11-24,0.7320516109466553,Israel releases Palestinian women and children prisoners under Hamas deal,Israel releases 39 Palestinian prisoners from Israeli prisons - BBC News
+9747,578,2023-11-24,1712,2023-11-24,0.774825930595398,Who are the Palestinian prisoners Israel released on Friday?,Israel releases 39 Palestinian prisoners from Israeli prisons - BBC News
+9785,580,2023-11-24,1716,2023-11-23,0.7304185628890991,Hamas releases 24 captives amid Israel truce: Here’s what’s to know,What we know about Israel-Hamas Gaza deal on hostages - BBC News
+9860,585,2023-11-24,1705,2023-11-25,0.7023977041244507,‘Relief’ in war-torn Gaza as truce takes effect in Israel-Hamas war,Gaza truce: Palestinians search for loved ones and check damaged homes - BBC News
+10044,598,2023-11-23,1719,2023-11-23,0.8797506093978882,"Israeli army arrests al-Shifa Hospital director, other doctors in Gaza",Israeli forces detain director of Gaza's al-Shifa Hospital - BBC News
+10144,605,2023-11-22,1723,2023-11-22,0.7316641211509705,Behind the scenes: How the Israel-Hamas truce deal came together,How the Israel-Hamas hostage deal came together - BBC News
+10258,613,2023-11-22,1716,2023-11-23,0.7077357769012451,Israel-Hamas truce deal: All that you need to know,What we know about Israel-Hamas Gaza deal on hostages - BBC News
+10363,621,2023-11-21,1725,2023-11-21,0.8786321878433228,Israeli strike kills three journalists near Lebanon border,Lebanon PM says Israeli strikes killed journalists - BBC News
+10373,622,2023-11-21,1723,2023-11-22,0.733153760433197,"Hamas, Israel leaders suggest deal is ‘close’ on captives, Gaza truce",How the Israel-Hamas hostage deal came together - BBC News
+10433,626,2023-11-20,1737,2023-11-19,0.7949026823043823,Group of 28 premature Gaza babies evacuated to Egypt amid Israeli attacks,Gaza war: Premature babies evacuated from al-Shifa hospital - BBC News
+10474,629,2023-11-20,1730,2023-11-20,0.7612205743789673,Israel targets Gaza’s Indonesian Hospital: Here is what’s to know,Israeli tanks surround north Gaza's Indonesian Hospital - BBC News
+10554,634,2023-11-20,1730,2023-11-20,0.9111894965171814,Israeli tanks besiege Gaza’s Indonesian Hospital,Israeli tanks surround north Gaza's Indonesian Hospital - BBC News
+10572,635,2023-11-20,1732,2023-11-20,0.719728410243988,Japan seeking talks with Houthi hijackers of Red Sea Israeli-linked ship,Japan condemns Yemen's Houthi rebels hijack of cargo ship in Red Sea - BBC News
+10681,642,2023-11-19,1732,2023-11-20,0.8207083940505981,Yemen’s Houthi rebels seize cargo ship in Red Sea,Japan condemns Yemen's Houthi rebels hijack of cargo ship in Red Sea - BBC News
+10685,642,2023-11-19,1736,2023-11-19,0.9246932864189148,Yemen’s Houthi rebels seize cargo ship in Red Sea,Yemen's Houthi rebels hijack cargo ship in Red Sea - BBC News
+10720,644,2023-11-19,1737,2023-11-19,0.9086018800735474,Babies evacuated from al-Shifa Hospital to southern Gaza amid Israel war,Gaza war: Premature babies evacuated from al-Shifa hospital - BBC News
+10917,655,2023-11-18,1745,2023-11-18,0.9073839783668518,Israel agrees to allow ‘minimal’ two trucks of fuel a day into Gaza,Israel says it will allow two trucks of fuel a day into Gaza - BBC News
+11120,666,2023-11-17,1749,2023-11-17,0.8757925033569336,Israel ‘not successful’ in minimising Gaza civilian casualties: Netanyahu,Netanyahu says Israel 'not successful' at minimising Gaza casualties but blames Hamas - BBC News
+11191,669,2023-11-16,1787,2023-11-15,0.724001407623291,"Israel-Gaza: Indonesian Hospital ‘out of service’, inundated with wounded",Israeli soldiers inside Gaza's biggest hospital - BBC News
+11291,674,2023-11-16,1754,2023-11-16,0.779600977897644,Telecommunications cut off in Gaza after fuel runs out amid Israeli siege,Gaza faces communications blackout due to lack of fuel - BBC News
+11411,679,2023-11-16,1759,2023-11-15,0.7320224046707153,"Escape from al-Shifa: How a Gaza medic dodged Israeli patrols, snipers",Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11434,680,2023-11-16,1759,2023-11-15,0.7198048830032349,Middle East Roundup: Is Shifa Hospital really a Hamas ops hub?,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11501,683,2023-11-16,1757,2023-11-16,0.7049747705459595,What has Israel ‘found’ in Gaza’s al-Shifa Hospital?,BBC goes inside Al-Shifa hospital with the Israeli army - BBC News
+11503,683,2023-11-16,1759,2023-11-15,0.8696625828742981,What has Israel ‘found’ in Gaza’s al-Shifa Hospital?,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11513,683,2023-11-16,1787,2023-11-15,0.757168710231781,What has Israel ‘found’ in Gaza’s al-Shifa Hospital?,Israeli soldiers inside Gaza's biggest hospital - BBC News
+11547,685,2023-11-16,1757,2023-11-16,0.7053396105766296,Israel raids Gaza’s al-Shifa Hospital for second day,BBC goes inside Al-Shifa hospital with the Israeli army - BBC News
+11549,685,2023-11-16,1759,2023-11-15,0.8723200559616089,Israel raids Gaza’s al-Shifa Hospital for second day,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11559,685,2023-11-16,1787,2023-11-15,0.7607861757278442,Israel raids Gaza’s al-Shifa Hospital for second day,Israeli soldiers inside Gaza's biggest hospital - BBC News
+11560,686,2023-11-16,1746,2023-11-17,0.7225983142852783,Biden to Netanyahu: ‘Occupying’ Gaza would be a ‘big mistake’,Biden facing growing internal dissent over Israel's Gaza campaign - BBC News
+11610,688,2023-11-15,1754,2023-11-16,0.8002172708511353,Gaza telecom companies warn of coming blackout amid Israeli attacks,Gaza faces communications blackout due to lack of fuel - BBC News
+11663,690,2023-11-15,1757,2023-11-16,0.7293938994407654,Why is Gaza’s al-Shifa Hospital so important for the Israeli army?,BBC goes inside Al-Shifa hospital with the Israeli army - BBC News
+11665,690,2023-11-15,1759,2023-11-15,0.827685534954071,Why is Gaza’s al-Shifa Hospital so important for the Israeli army?,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11675,690,2023-11-15,1770,2023-11-14,0.7976351976394653,Why is Gaza’s al-Shifa Hospital so important for the Israeli army?,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+11682,690,2023-11-15,1787,2023-11-15,0.752199649810791,Why is Gaza’s al-Shifa Hospital so important for the Israeli army?,Israeli soldiers inside Gaza's biggest hospital - BBC News
+11688,691,2023-11-15,1757,2023-11-16,0.718346118927002,‘Hospitals are not battlegrounds’: World reacts to Israel’s al-Shifa raid,BBC goes inside Al-Shifa hospital with the Israeli army - BBC News
+11690,691,2023-11-15,1759,2023-11-15,0.8256943225860596,‘Hospitals are not battlegrounds’: World reacts to Israel’s al-Shifa raid,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11694,691,2023-11-15,1763,2023-11-15,0.7986910343170166,‘Hospitals are not battlegrounds’: World reacts to Israel’s al-Shifa raid,Bowen: Al-Shifa Hospital raid comes as tone shifts on Israel - BBC News
+11743,693,2023-11-15,1762,2023-11-15,0.8272274136543274,First fuel truck since start of Israel-Hamas war enters Gaza,First fuel tanker enters Gaza from Egypt since start of war - BBC News
+11765,694,2023-11-15,1759,2023-11-15,0.919666588306427,‘Terror’ amid Israel’s raid on Gaza’s al-Shifa Hospital,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11769,694,2023-11-15,1763,2023-11-15,0.7264171838760376,‘Terror’ amid Israel’s raid on Gaza’s al-Shifa Hospital,Bowen: Al-Shifa Hospital raid comes as tone shifts on Israel - BBC News
+11775,694,2023-11-15,1770,2023-11-14,0.7414900064468384,‘Terror’ amid Israel’s raid on Gaza’s al-Shifa Hospital,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+11813,696,2023-11-15,1757,2023-11-16,0.7076349258422852,Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,BBC goes inside Al-Shifa hospital with the Israeli army - BBC News
+11815,696,2023-11-15,1759,2023-11-15,0.96782785654068,Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11819,696,2023-11-15,1763,2023-11-15,0.7684527635574341,Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,Bowen: Al-Shifa Hospital raid comes as tone shifts on Israel - BBC News
+11825,696,2023-11-15,1770,2023-11-14,0.7535467147827148,Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+11832,696,2023-11-15,1787,2023-11-15,0.711998701095581,Israel’s raid on Gaza’s al-Shifa Hospital: Here’s what you need to know,Israeli soldiers inside Gaza's biggest hospital - BBC News
+11865,698,2023-11-15,1759,2023-11-15,0.7031793594360352,Analysis: Israel’s ‘war on hospitals’ vs Hamas military exaggerations,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11890,699,2023-11-15,1759,2023-11-15,0.8426803350448608,Thousands trapped as Israeli forces raid Gaza’s al-Shifa Hospital,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+11900,699,2023-11-15,1770,2023-11-14,0.7178995013237,Thousands trapped as Israeli forces raid Gaza’s al-Shifa Hospital,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+11907,699,2023-11-15,1787,2023-11-15,0.7339379191398621,Thousands trapped as Israeli forces raid Gaza’s al-Shifa Hospital,Israeli soldiers inside Gaza's biggest hospital - BBC News
+12036,705,2023-11-14,1759,2023-11-15,0.750320553779602,Gaza’s al-Shifa Hospital forced to bury dead patients in ‘mass grave’,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+12053,705,2023-11-14,1777,2023-11-13,0.924760103225708,Gaza’s al-Shifa Hospital forced to bury dead patients in ‘mass grave’,Al-Shifa: WHO says Gaza hospital unable to bury dead bodies - BBC News
+12232,712,2023-11-14,1759,2023-11-15,0.7130160927772522,Israel’s attacks on hospitals ‘should be investigated as war crimes’: HRW,Al-Shifa: What we know about Israel's raid on Gaza's main hospital - BBC News
+12405,719,2023-11-13,1770,2023-11-14,0.7026958465576172,‘Patients are dying’: What we know about Gaza hospitals under Israeli siege,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+12412,719,2023-11-13,1777,2023-11-13,0.7153215408325195,‘Patients are dying’: What we know about Gaza hospitals under Israeli siege,Al-Shifa: WHO says Gaza hospital unable to bury dead bodies - BBC News
+12423,719,2023-11-13,1789,2023-11-12,0.7248329520225525,‘Patients are dying’: What we know about Gaza hospitals under Israeli siege,Gaza hospital crippled as fighting rages nearby - BBC News
+12445,721,2023-11-13,1770,2023-11-14,0.7788751721382141,Death and disease as Israeli troops approach Gaza’s al-Shifa Hospital,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+12452,721,2023-11-13,1777,2023-11-13,0.8152447938919067,Death and disease as Israeli troops approach Gaza’s al-Shifa Hospital,Al-Shifa: WHO says Gaza hospital unable to bury dead bodies - BBC News
+12459,721,2023-11-13,1784,2023-11-13,0.7388821840286255,Death and disease as Israeli troops approach Gaza’s al-Shifa Hospital,Israel's president denies it is striking Gaza's Al-Shifa hospital - BBC News
+12574,727,2023-11-13,1779,2023-11-13,0.7379838228225708,US carries out two more strikes on Iran-backed groups in Syria,US airstrikes target more Iran-backed bases in Syria - BBC News
+12605,729,2023-11-13,1770,2023-11-14,0.7138973474502563,Gaza’s two biggest hospitals cease operations as WHO warns of rising deaths,Israel-Gaza war: US says Hamas has command centre under Al-Shifa hospital - BBC News
+12636,730,2023-11-12,1790,2023-11-11,0.7354092001914978,Gaza’s al-Quds Hospital ceases operations amid Israeli attacks,World Health Organisation says Gaza's main hospital no longer functioning - BBC News
+12639,730,2023-11-12,1793,2023-11-11,0.709514319896698,Gaza’s al-Quds Hospital ceases operations amid Israeli attacks,Israeli forces surround north Gaza hospitals - BBC News
+12719,735,2023-11-12,1793,2023-11-11,0.7046339511871338,How are Gaza casualty updates affected by Israeli attacks on hospitals?,Israeli forces surround north Gaza hospitals - BBC News
+12764,738,2023-11-12,1790,2023-11-11,0.7120327949523926,Indonesian staff at Gaza hospital ‘resigned to fate’ as Israelis close in,World Health Organisation says Gaza's main hospital no longer functioning - BBC News
+12837,743,2023-11-11,1814,2023-11-10,0.7885606288909912,‘We are minutes away from death’: Gaza’s al-Shifa Hospital under attack,"Israel-Gaza live news: Firing outside Gaza hospitals, with patients and staff trapped inside - BBC News"
+12883,747,2023-11-11,1791,2023-11-11,0.7860923409461975,France’s Macron urges Israel to stop bombing and killing civilians in Gaza,Macron condemns rising antisemitism and Israeli bombing of civilians - BBC News
+13033,754,2023-11-10,1790,2023-11-11,0.7148346304893494,Health centres in north Gaza under siege in ‘day of war against hospitals’,World Health Organisation says Gaza's main hospital no longer functioning - BBC News
+13036,754,2023-11-10,1793,2023-11-11,0.7775342464447021,Health centres in north Gaza under siege in ‘day of war against hospitals’,Israeli forces surround north Gaza hospitals - BBC News
+13057,754,2023-11-10,1814,2023-11-10,0.7827112078666687,Health centres in north Gaza under siege in ‘day of war against hospitals’,"Israel-Gaza live news: Firing outside Gaza hospitals, with patients and staff trapped inside - BBC News"
+13083,756,2023-11-10,1790,2023-11-11,0.7315723896026611,Which of Gaza’s hospitals is Israel threatening?,World Health Organisation says Gaza's main hospital no longer functioning - BBC News
+13086,756,2023-11-10,1793,2023-11-11,0.7910844683647156,Which of Gaza’s hospitals is Israel threatening?,Israeli forces surround north Gaza hospitals - BBC News
+13107,756,2023-11-10,1814,2023-11-10,0.8258320689201355,Which of Gaza’s hospitals is Israel threatening?,"Israel-Gaza live news: Firing outside Gaza hospitals, with patients and staff trapped inside - BBC News"
+13233,762,2023-11-10,1790,2023-11-11,0.792479395866394,"Israel strikes Gaza’s biggest hospital complex, health officials say",World Health Organisation says Gaza's main hospital no longer functioning - BBC News
+13236,762,2023-11-10,1793,2023-11-11,0.7268819808959961,"Israel strikes Gaza’s biggest hospital complex, health officials say",Israeli forces surround north Gaza hospitals - BBC News
+13257,762,2023-11-10,1814,2023-11-10,0.7697803378105164,"Israel strikes Gaza’s biggest hospital complex, health officials say","Israel-Gaza live news: Firing outside Gaza hospitals, with patients and staff trapped inside - BBC News"
+13290,764,2023-11-09,1794,2023-11-10,0.7535852193832397,News outlets reject allegations of complicity in Hamas attack inside Israel,News outlets deny Israeli claim that freelance journalists knew of Hamas attack - BBC News
+13361,766,2023-11-09,1801,2023-11-09,0.9204488396644592,"Israel to begin daily four-hour ‘pauses’ in fighting in north Gaza, US says",US says Israel to begin daily four-hour military pauses in Gaza - BBC News
+13394,767,2023-11-09,1802,2023-11-09,0.790878415107727,Deadly assault on Jenin refugee camp as Israel raids on West Bank intensify,Jenin raid: 14 Palestinians killed in clashes in West Bank city - BBC News
+13921,783,2023-11-08,1809,2023-11-09,0.7264058589935303,Thousands flee northern Gaza in ‘desperate journey’ during Israel war,Israel-Gaza war: Dead bodies and tanks on road south as people flee - BBC News
+13947,783,2023-11-08,1836,2023-11-08,0.8549613952636719,Thousands flee northern Gaza in ‘desperate journey’ during Israel war,Thousands more flee northern Gaza as Israeli forces push on Gaza City - BBC News
+14213,791,2023-11-08,1822,2023-11-08,0.7728461623191833,US House votes to censure Rashida Tlaib over Israel-Hamas war comments,Rashida Tlaib censured over Israel-Gaza comments - BBC News
+14232,792,2023-11-07,1819,2023-11-08,0.8242822289466858,US says does not support Israeli ‘reoccupation’ of Gaza after war,US warns Israel against reoccupying Gaza after war - BBC News
+14620,803,2023-11-07,1833,2023-11-07,0.8954750299453735,Netanyahu says Israel to manage Gaza’s security indefinitely after the war,Netanyahu says Israel will have security control over Gaza after war - BBC News
+15032,816,2023-11-06,1847,2023-11-06,0.8478744029998779,Israel arrests Palestinian activist Ahed Tamimi in occupied West Bank raids,Ahed Tamimi: Israeli forces arrest Palestinian activist in West Bank - BBC News
+15372,828,2023-11-05,1856,2023-11-04,0.7191735506057739,"Israel-Hamas war: Abbas meets Blinken, joins Arab leaders’ ceasefire call","Israel-Gaza war: Ceasefire would allow Hamas to regroup, says Blinken - BBC News"
+15377,828,2023-11-05,1861,2023-11-04,0.7288568615913391,"Israel-Hamas war: Abbas meets Blinken, joins Arab leaders’ ceasefire call",Israel rebuffs Blinken's call for Gaza humanitarian pause - BBC News
+15491,833,2023-11-04,1856,2023-11-04,0.7002707719802856,Blinken reaffirms US support for ‘humanitarian pauses’ in Gaza,"Israel-Gaza war: Ceasefire would allow Hamas to regroup, says Blinken - BBC News"
+15496,833,2023-11-04,1861,2023-11-04,0.9067389369010924,Blinken reaffirms US support for ‘humanitarian pauses’ in Gaza,Israel rebuffs Blinken's call for Gaza humanitarian pause - BBC News
+15534,834,2023-11-04,1872,2023-11-03,0.76847904920578,‘Extremely challenging’: Israel’s Gaza ground assault faces stumbles,Bowen: Five new realities after four weeks of Israel-Gaza war - BBC News
+15712,841,2023-11-04,1861,2023-11-04,0.8655245304107666,What’s behind Antony Blinken’s call for ‘humanitarian pauses’ in Gaza?,Israel rebuffs Blinken's call for Gaza humanitarian pause - BBC News
+15762,843,2023-11-03,1862,2023-11-03,0.7490746378898621,Relief in Lebanon as Hezbollah’s Nasrallah holds off on wider Israel war,Hezbollah steps back from all-out war on Israel over Gaza - for now - BBC News
+15769,843,2023-11-03,1869,2023-11-03,0.7315173745155334,Relief in Lebanon as Hezbollah’s Nasrallah holds off on wider Israel war,What is Hezbollah in Lebanon and will it go to war with Israel? - BBC News
+15799,844,2023-11-03,1870,2023-11-03,0.8293383121490479,Hezbollah’s Hassan Nasrallah speech on Israel-Hamas war: Key takeaways,Hezbollah chief Hassan Nasrallah makes first speech on Israel-Gaza war - BBC News
+15830,845,2023-11-03,1872,2023-11-03,0.7246716618537903,"Analysis: Israel’s Gaza bombing campaign is proving costly, for Israel",Bowen: Five new realities after four weeks of Israel-Gaza war - BBC News
+15855,846,2023-11-03,1868,2023-11-03,0.7014540433883667,"‘Arrested, tortured and insulted’, say workers returned to Gaza by Israel",Palestinian workers return to Gaza after expulsion from Israel - BBC News
+15903,848,2023-11-03,1858,2023-11-04,0.787945032119751,"Israeli air strike on ambulances kills 15, injures 60, Gaza officials say",Red Crescent says 15 killed in strike on Gaza ambulance outside Al-Shifa hospital - BBC News
+15944,849,2023-11-03,1870,2023-11-03,0.7234888076782227,‘All scenarios open’: Hezbollah chief in first speech since Israel-Gaza war,Hezbollah chief Hassan Nasrallah makes first speech on Israel-Gaza war - BBC News
+16248,859,2023-11-03,1893,2023-11-02,0.7158554792404175,"Israel’s military says Gaza City surrounded, rejects ceasefire calls",Israeli military says its troops have completed encirclement of Gaza City - BBC News
+16533,868,2023-11-02,1891,2023-11-01,0.7477864623069763,Israel’s army meets fierce resistance ‘at the gates of Gaza City’,"Israel-Gaza war: 'Dialogue is not easy, but we can't shut the door' - BBC News"
+16650,872,2023-11-02,1880,2023-11-02,0.8584452867507935,Biden calls for ‘pause’ in Israel’s war in Gaza for the first time,US President Joe Biden calls for 'pause' in Israel-Gaza conflict - BBC News
+16661,872,2023-11-02,1891,2023-11-01,0.7137808799743652,Biden calls for ‘pause’ in Israel’s war in Gaza for the first time,"Israel-Gaza war: 'Dialogue is not easy, but we can't shut the door' - BBC News"
+16960,881,2023-11-01,1885,2023-11-01,0.7230726480484009,"Israel-Hamas war: With the Rafah border crossing open, who’s exiting Gaza?",Rafah crossing: First Britons leave Gaza but others face nervous wait - BBC News
+16963,881,2023-11-01,1888,2023-11-01,0.737878680229187,"Israel-Hamas war: With the Rafah border crossing open, who’s exiting Gaza?",What is the Rafah crossing and why is it Gaza's lifeline? - BBC News
+17082,884,2023-11-01,1896,2023-10-31,0.7340377569198608,Israel’s deadly attack on the Jabalia refugee camp: What we know so far,Jabalia: Israel air strike reportedly kills dozens at Gaza refugee camp - BBC News
+17291,890,2023-11-01,1883,2023-11-02,0.7328317165374756,Rafah crossing linking war-torn Gaza to Egypt opens,Egypt opens Gaza border crossing to evacuate injured and foreign nationals - BBC News
+17296,890,2023-11-01,1888,2023-11-01,0.7577983140945435,Rafah crossing linking war-torn Gaza to Egypt opens,What is the Rafah crossing and why is it Gaza's lifeline? - BBC News
+17578,898,2023-10-31,1896,2023-10-31,0.9141464829444884,Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,Jabalia: Israel air strike reportedly kills dozens at Gaza refugee camp - BBC News
+17602,898,2023-10-31,1920,2023-10-31,0.8183754682540894,Dozens killed in Israeli air attack on Jabalia refugee camp: Gaza official,Dozens reported killed in Gaza refugee camp blast - BBC News
+17829,905,2023-10-30,1911,2023-10-31,0.724454402923584,Bernie Sanders’s failure to back Israel-Gaza ceasefire upsets US followers,Israel Gaza: US rejects calls for ceasefire - BBC News
+17984,910,2023-10-30,1916,2023-10-30,0.7781058549880981,Hamas releases video of three Gaza hostages addressing Netanyahu,Israel's Netanyahu condemns 'cruel' Hamas video of Israeli hostages - BBC News
+18076,913,2023-10-30,1918,2023-10-30,0.8395993113517761,"Israel says German-Israeli woman Shani Louk, taken by Hamas, is dead","Shani Louk: Woman missing after Hamas attack is dead, says mother - BBC News"
+18255,919,2023-10-30,1917,2023-10-30,0.7124209403991699,Russia’s Dagestan airport closed after anti-Israel protests: What to know,Dagestan: Mob storms Russian airport in search of Jews - BBC News
+18313,921,2023-10-30,1915,2023-10-30,0.7395453453063965,Heavy clashes as Israeli tanks briefly reach Gaza City outskirts,Tank seen on key Gaza road as Israeli forces push deeper into north - BBC News
+18558,931,2023-10-29,1926,2023-10-28,0.7373343706130981,Joy and horror as communications come back on in the Gaza Strip,The messages of fear that trickled out while Gaza was disconnected - BBC News
+18619,934,2023-10-29,1921,2023-10-29,0.7443382740020752,"Palestinians break into Gaza UN aid warehouses as toll tops 8,000",UN: Thousands in Gaza break into warehouses in search of aid - BBC News
+18724,939,2023-10-28,1926,2023-10-28,0.7748636603355408,‘I am scared’: Bombing of Gaza sparks fears in southern Israel,The messages of fear that trickled out while Gaza was disconnected - BBC News
+18824,944,2023-10-28,1926,2023-10-28,0.7132651209831238,Gaza’s communications blackout raises concerns of Israeli war crimes,The messages of fear that trickled out while Gaza was disconnected - BBC News
+18831,944,2023-10-28,1933,2023-10-28,0.7504096031188965,Gaza’s communications blackout raises concerns of Israeli war crimes,People in Gaza uncontactable and all communication down as Israel intensifies bombing - BBC News
+18851,945,2023-10-28,1933,2023-10-28,0.7089979648590088,Israel’s war on Gaza in 10 explainers,People in Gaza uncontactable and all communication down as Israel intensifies bombing - BBC News
+18889,947,2023-10-27,1935,2023-10-27,0.7278324961662292,UNGA calls for humanitarian truce in Israel-Gaza war: How countries voted,Israel angrily dismisses UN truce resolution on Gaza - BBC News
+18992,951,2023-10-27,1933,2023-10-28,0.7179668545722961,Israel intensifies Gaza bombardment as internet and phone services go down,People in Gaza uncontactable and all communication down as Israel intensifies bombing - BBC News
+19188,958,2023-10-27,1948,2023-10-26,0.709906816482544,Israel conducts second ground raid into northern Gaza with air support,'Reconnaissance by fire' - What Israel's Gaza raid tells us - BBC News
+19406,967,2023-10-26,1936,2023-10-27,0.7052779197692871,Analysis: What does Israel’s Gaza incursion propaganda video reveal?,Gaza before and after: Satellite images show destruction - BBC News
+19446,968,2023-10-26,1947,2023-10-26,0.7725661993026733,Arab world condemns Al Jazeera journalist’s family killing in Israeli raid,Wael Al-Dahdouh: Al Jazeera reporter's family killed in Gaza strike - BBC News
+19482,969,2023-10-26,1954,2023-10-25,0.7094460725784302,"Middle East Roundup: In Gaza, mourning is a luxury",Humanity blasted and broken: Gaza through a medic's eyes - BBC News
+19712,977,2023-10-25,1947,2023-10-26,0.8474797010421753,Al Jazeera condemns Israeli killing of journalist Wael Al-Dahdouh’s family,Wael Al-Dahdouh: Al Jazeera reporter's family killed in Gaza strike - BBC News
+19780,979,2023-10-25,1947,2023-10-26,0.7750207185745239,Family of Al Jazeera Gaza bureau chief killed in Israeli air raid,Wael Al-Dahdouh: Al Jazeera reporter's family killed in Gaza strike - BBC News
+19979,985,2023-10-25,1942,2023-10-26,0.7400560975074768,Gaza needed billions in aid before Israel-Hamas war: UN,UN agencies reduce Gaza aid operations as fuel runs out - BBC News
+20262,993,2023-10-25,1954,2023-10-25,0.7140604257583618,Child casualties in Gaza a ‘stain on our conscience’: UNICEF,Humanity blasted and broken: Gaza through a medic's eyes - BBC News
+20364,996,2023-10-24,1964,2023-10-24,0.7046903371810913,UN chief says ‘clear violations of international humanitarian law’ in Gaza,Scottish Labour leader Sarwar says Israel 'breaking international law' in Gaza - BBC News
+20397,997,2023-10-24,1963,2023-10-24,0.812328577041626,"More than 700 killed in overnight Israeli attacks, Gaza officials say",Gaza strikes: Hamas-run health ministry says 700 killed in 24 hours - BBC News
+20628,1004,2023-10-24,1956,2023-10-25,0.7380943298339844,Gaza hospital generators to run out of fuel in 48 hours: Health Ministry,Gaza's hospitals treating emergency cases only as fuel runs low - BBC News
+20801,1009,2023-10-23,1971,2023-10-24,0.7056176662445068,Hamas releases two women held hostage after Egyptian-Qatari diplomacy,Two more hostages held in Gaza released - BBC News
+21689,1041,2023-10-20,1997,2023-10-21,0.7138704657554626,Hamas releases two American hostages from Gaza after Qatari mediation,The forgotten Israeli hostages kept by Hamas in Gaza for years - BBC News
+21774,1044,2023-10-20,1992,2023-10-21,0.7815105319023132,UN chief calls on Israel to open aid ‘lifeline’ for Gaza,Israel-Gaza war: UN agencies call for Gaza ceasefire as aid arrives - BBC News
+21858,1046,2023-10-20,2016,2023-10-19,0.7504012584686279,Investigations reveal discrepancies in Israel’s Gaza hospital attack claims,"Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+22102,1054,2023-10-20,2020,2023-10-19,0.7332723736763,Biden’s Israel trip displays ‘performative’ approach to Gaza war: analysts,Israel Gaza: Biden clinches deal with Egypt to allow aid - BBC News
+22142,1056,2023-10-19,2010,2023-10-20,0.7473962306976318,"US, UK, Germany tell citizens to leave Lebanon as regional tensions rise",Residents leave as tension grows at Israel-Lebanon border - BBC News
+22207,1058,2023-10-19,2018,2023-10-19,0.7031408548355103,WHO says aid ‘ready to go’ into Gaza as Israeli bombardment continues,Aid delivery waits to enter Gaza from Egypt at Rafah crossing - BBC News
+22292,1061,2023-10-19,2016,2023-10-19,0.9187336564064026,Video investigation: What hit al-Ahli Hospital in Gaza?,"Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+22299,1061,2023-10-19,2023,2023-10-18,0.7434679269790649,Video investigation: What hit al-Ahli Hospital in Gaza?,Panic and confusion at scene of Gaza hospital blast - BBC News
+22469,1067,2023-10-19,2019,2023-10-19,0.7959995269775391,Jewish activists arrested at US Congress anti-Israel protest amid Gaza war,Hundreds arrested at Israel-Gaza protest near US Capitol - BBC News
+22599,1072,2023-10-18,2016,2023-10-19,0.8150984048843384,What is Israel’s narrative on the Gaza hospital explosion?,"Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+22606,1072,2023-10-18,2023,2023-10-18,0.8474994897842407,What is Israel’s narrative on the Gaza hospital explosion?,Panic and confusion at scene of Gaza hospital blast - BBC News
+22613,1072,2023-10-18,2030,2023-10-18,0.7398205995559692,What is Israel’s narrative on the Gaza hospital explosion?,Hospital blast in Gaza City kills hundreds - health officials - BBC News
+22628,1073,2023-10-18,2016,2023-10-19,0.740222156047821,Israel-Gaza: What international law says about the deadly hospital strike,"Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+22635,1073,2023-10-18,2023,2023-10-18,0.7379518747329712,Israel-Gaza: What international law says about the deadly hospital strike,Panic and confusion at scene of Gaza hospital blast - BBC News
+22642,1073,2023-10-18,2030,2023-10-18,0.7556024789810181,Israel-Gaza: What international law says about the deadly hospital strike,Hospital blast in Gaza City kills hundreds - health officials - BBC News
+22715,1076,2023-10-18,2016,2023-10-19,0.8337774276733398,"Where in Gaza is al-Ahli Arab Hospital, the site hit amid war with Israel?","Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+22722,1076,2023-10-18,2023,2023-10-18,0.7156823873519897,"Where in Gaza is al-Ahli Arab Hospital, the site hit amid war with Israel?",Panic and confusion at scene of Gaza hospital blast - BBC News
+22806,1079,2023-10-18,2020,2023-10-19,0.7117794752120972,What has been US President Biden’s stance on Israel-Gaza war so far?,Israel Gaza: Biden clinches deal with Egypt to allow aid - BBC News
+22814,1079,2023-10-18,2028,2023-10-18,0.7317340970039368,What has been US President Biden’s stance on Israel-Gaza war so far?,Israel Gaza: Biden's visit is a high-stakes gamble - BBC News
+22838,1080,2023-10-18,2023,2023-10-18,0.7088034152984619,"Biden arrives in Tel Aviv, backs Israel’s narrative on Gaza hospital strike",Panic and confusion at scene of Gaza hospital blast - BBC News
+22843,1080,2023-10-18,2028,2023-10-18,0.7164573669433594,"Biden arrives in Tel Aviv, backs Israel’s narrative on Gaza hospital strike",Israel Gaza: Biden's visit is a high-stakes gamble - BBC News
+23009,1086,2023-10-18,2020,2023-10-19,0.7038266062736511,What can Biden’s Israel visit accomplish after Gaza hospital bombing?,Israel Gaza: Biden clinches deal with Egypt to allow aid - BBC News
+23017,1086,2023-10-18,2028,2023-10-18,0.7613822817802429,What can Biden’s Israel visit accomplish after Gaza hospital bombing?,Israel Gaza: Biden's visit is a high-stakes gamble - BBC News
+23031,1086,2023-10-18,2042,2023-10-17,0.7077676057815552,What can Biden’s Israel visit accomplish after Gaza hospital bombing?,Biden to visit Israel as concerns grow over conflict escalating - BBC News
+23063,1088,2023-10-18,2016,2023-10-19,0.7771514654159546,What we know so far about the deadly strike on a Gaza hospital,"Gaza hospital: What video, pictures and other evidence tell us about Al-Ahli hospital blast - BBC News"
+23070,1088,2023-10-18,2023,2023-10-18,0.8002558946609497,What we know so far about the deadly strike on a Gaza hospital,Panic and confusion at scene of Gaza hospital blast - BBC News
+23077,1088,2023-10-18,2030,2023-10-18,0.7722406983375549,What we know so far about the deadly strike on a Gaza hospital,Hospital blast in Gaza City kills hundreds - health officials - BBC News
+23182,1093,2023-10-17,2030,2023-10-18,0.7332907915115356,World reacts as Gaza officials say 500 killed in Israeli strike on hospital,Hospital blast in Gaza City kills hundreds - health officials - BBC News
+23203,1094,2023-10-17,2030,2023-10-18,0.8061642646789551,Gaza authorities say hundreds killed in Israeli air raid on hospital,Hospital blast in Gaza City kills hundreds - health officials - BBC News
+23412,1104,2023-10-17,2028,2023-10-18,0.7839454412460327,Biden to visit Israel as Gaza faces humanitarian catastrophe,Israel Gaza: Biden's visit is a high-stakes gamble - BBC News
+23425,1104,2023-10-17,2042,2023-10-17,0.7666998505592346,Biden to visit Israel as Gaza faces humanitarian catastrophe,Biden to visit Israel as concerns grow over conflict escalating - BBC News
+23648,1120,2023-10-16,2037,2023-10-17,0.8183066844940186,Why reopening Egypt-Gaza Rafah crossing is crucial amid Israeli bombing,Why Egypt remains reluctant to open Rafah crossing to Gaza - BBC News
+23689,1123,2023-10-16,2042,2023-10-17,0.7321801781654358,Biden weighs Israel visit after Netanyahu extends invite amid Gaza war,Biden to visit Israel as concerns grow over conflict escalating - BBC News

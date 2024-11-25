@@ -1,0 +1,201 @@
+,aj_id,aj_date,bbc_id,bbc_date,cosine_similarity,aj_title,bbc_title
+1,2827,2024-02-17,2044,2024-02-17,0.7161045074462891,Russia claims capture of Avdiivka after Ukraine withdraws from key city,Avdiivka: Ukraine troops leave embattled eastern town - BBC News
+172,2850,2024-02-10,2062,2024-02-10,0.704904317855835,Overnight Russian drone attack kills at least seven in Ukraine’s Kharkiv,Kharkiv: Seven 'burned alive' as Russian drones hit oil depot - BBC News
+191,2852,2024-02-09,2066,2024-02-09,0.7375012636184692,Decoding Putin’s ‘obsessive ideas’ in the Tucker Carlson interview,What do Vladimir Putin and Tucker Carlson gain from Moscow interview? - BBC News
+196,2852,2024-02-09,2071,2024-02-08,0.7644952535629272,Decoding Putin’s ‘obsessive ideas’ in the Tucker Carlson interview,Tucker Carlson interviews Russia's Putin - Kremlin - BBC News
+221,2855,2024-02-09,2066,2024-02-09,0.7719941735267639,What did Vladimir Putin say to Tucker Carlson? Five key takeaways,What do Vladimir Putin and Tucker Carlson gain from Moscow interview? - BBC News
+226,2855,2024-02-09,2071,2024-02-08,0.7771625518798828,What did Vladimir Putin say to Tucker Carlson? Five key takeaways,Tucker Carlson interviews Russia's Putin - Kremlin - BBC News
+251,2858,2024-02-08,2068,2024-02-08,0.7694684863090515,Ukraine’s Zelenskyy names new army chief after dismissing Zaluzhny,Zelensky sacks Ukraine's commander-in-chief Valerii Zaluzhnyi - BBC News
+253,2858,2024-02-08,2070,2024-02-08,0.7690476179122925,Ukraine’s Zelenskyy names new army chief after dismissing Zaluzhny,Russia-Ukraine war: Zelensky calls for army renewal as top general replaced - BBC News
+489,2884,2024-02-01,2086,2024-02-01,0.7596386075019836,European Union agrees on new $54bn aid package for Ukraine,Ukraine support package worth â‚¬50bn agreed by EU leaders - BBC News
+522,2886,2024-02-01,2091,2024-02-01,0.7295898199081421,Thailand deports dissident Russian rockers to Israel,Bi-2: Russian anti-war band leaves Thailand for Israel - BBC News
+530,2887,2024-02-01,2085,2024-02-02,0.7147662043571472,"Russia-Ukraine war: List of key events, day 708",Ukraine war: How Russia's war is changing childhood in Ukraine - BBC News
+547,2888,2024-01-31,2092,2024-01-31,0.8215240240097046,ICJ rejects most of Ukraine’s ‘terrorism’ case against Russia,Russia Ukraine war: ICJ finds Moscow violated terrorism and anti-discrimination treaties - BBC News
+576,2890,2024-01-31,2093,2024-01-31,0.8930691480636597,Russia and Ukraine complete first prisoner exchange since plane crash,Ukraine and Russia complete first prisoner swap since plane crash - BBC News
+605,2892,2024-01-31,2094,2024-01-31,0.7084013819694519,Ukraine war critic submits bid to challenge Putin for Russia’s presidency,Boris Nadezhdin: Putin challenger submits bid to run for Russian president - BBC News
+622,2893,2024-01-31,2097,2024-01-30,0.8025421500205994,Russian rock band critical of Ukraine war faces deportation from Thailand,Bi-2: Russia anti-war band arrested in Thailand faces deportation - BBC News
+693,2901,2024-01-28,2102,2024-01-28,0.8696907162666321,Ukraine says it uncovers $40m arms corruption scheme,Ukraine says it has uncovered major arms corruption - BBC News
+705,2904,2024-01-26,2104,2024-01-25,0.7101300954818726,"‘Propaganda, provocation’: Did Ukraine down a plane with its POWs aboard?",Ukrainian intelligence does not rule out PoWs on downed Russian plane - BBC News
+802,2913,2024-01-24,2111,2024-01-25,0.7155382633209229,Zelenskyy says Russia ‘playing with lives’ of Ukrainian POWs after crash,"Russia risked lives in downed plane, Volodymyr Zelensky says - BBC News"
+817,2914,2024-01-24,2114,2024-01-23,0.7564132809638977,At least 18 killed in wave of Russian missile attacks on Ukraine,Ukraine death toll rises to 18 after Russian missile attacks - BBC News
+893,2923,2024-01-21,2119,2024-01-21,0.7135058641433716,Russia says at least 27 killed in blast at Donetsk market,"Donetsk: Deadly blast hits market in Russia-held Ukraine city, officials say - BBC News"
+941,2938,2024-01-16,2126,2024-01-15,0.767632007598877,Ukraine says shot down two Russian command aircraft in blow to Moscow,Ukraine says it shot down Russian A-50 spy plane - BBC News
+1059,2958,2024-01-06,2142,2024-01-06,0.7853089570999146,Ukraine says Russian missile attack kills 11 in eastern town,"Ukraine-Russia war: missiles kill 11, including children, Ukrainian official says - BBC News"
+1065,2959,2024-01-04,2147,2024-01-05,0.8976949453353882,"Russia used North Korean missiles in Ukraine, US says",Ukraine war: US says Russia using North Korea ballistic missiles - BBC News
+1078,2961,2024-01-03,2149,2024-01-03,0.7882208824157715,"Russia, Ukraine exchange hundreds of prisoners in largest release of war",Ukraine and Russia in 'biggest prisoner swap' so far - BBC News
+1087,2962,2024-01-03,2151,2024-01-03,0.7267329692840576,Ukrainian missiles target Russian border regions in retaliatory strikes,Ukraine war: Missiles fired at Russian city Belgorod and occupied Crimea - BBC News
+1097,2963,2024-01-03,2154,2024-01-02,0.7308409810066223,"Russia-Ukraine war: List of key events, day 679",Ukraine war: Grim new year for Ukrainians under shadow of Russian attack - BBC News
+1111,2965,2024-01-02,2154,2024-01-02,0.7333212494850159,"Russia-Ukraine war: List of key events, day 678",Ukraine war: Grim new year for Ukrainians under shadow of Russian attack - BBC News
+1114,2966,2024-01-01,2153,2024-01-02,0.8013265132904053,Putin vows to intensify strikes on Ukraine after deadly Belgorod attack,Ukraine hit again after Putin vows intensified strikes - BBC News
+1116,2966,2024-01-01,2155,2024-01-01,0.8108704686164856,Putin vows to intensify strikes on Ukraine after deadly Belgorod attack,Putin vows to 'intensify' attacks against Ukraine military targets - BBC News
+1122,2967,2024-01-01,2154,2024-01-02,0.7304986715316772,"Ukraine, Russia accuse each other of New Year’s Day attacks",Ukraine war: Grim new year for Ukrainians under shadow of Russian attack - BBC News
+1129,2968,2024-01-01,2154,2024-01-02,0.7170164585113525,"Russia-Ukraine war: List of key events, day 677",Ukraine war: Grim new year for Ukrainians under shadow of Russian attack - BBC News
+1164,2971,2023-12-30,2170,2023-12-29,0.7567267417907715,Russia says 21 people killed in Ukrainian attack on Belgorod,Ukraine war: Russia says 14 dead after Ukraine strikes Belgorod - BBC News
+1186,2973,2023-12-29,2165,2023-12-29,0.9286233186721802,Poland says Russian missile briefly entered its airspace,Poland says Russian missile entered airspace then went into Ukraine - BBC News
+1255,2977,2023-12-29,2174,2023-12-28,0.8571404814720154,Russian poets given long jail terms for reciting verses against Ukraine war,Russian poets get jail sentences for anti-war poetry reading - BBC News
+1298,2980,2023-12-28,2175,2023-12-27,0.7832338809967041,Ukraine welcomes latest US aid package as war nears two year mark,Ukraine war: US releases last military aid for Kyiv for now - BBC News
+1370,2989,2023-12-25,2181,2023-12-25,0.9838817715644836,Ukraine officially celebrates Christmas on December 25 for the first time,Ukraine celebrates first Christmas on 25 December - BBC News
+1396,2993,2023-12-24,2181,2023-12-25,0.7539422512054443,Ukraine picks new Christmas date in break with Russian tradition,Ukraine celebrates first Christmas on 25 December - BBC News
+1402,2993,2023-12-24,2187,2023-12-23,0.837935745716095,Ukraine picks new Christmas date in break with Russian tradition,Ukraine war: New Christmas date marks shift away from Russia - BBC News
+1466,3000,2023-12-19,2199,2023-12-19,0.7349835634231567,Zelenskyy confident US will not ‘betray’ Ukraine,Ukraine war latest: We are not starting to lose this war - Zelensky - BBC News
+1507,3008,2023-12-15,2204,2023-12-15,0.860271155834198,Hungary blocks $54bn EU financial aid for Ukraine,Hungary blocks â‚¬50bn of EU funding for Ukraine - BBC News
+1591,3014,2023-12-14,2210,2023-12-14,0.8073743581771851,"Putin: Russia’s goals in Ukraine unchanged, no peace until they’re achieved",Russia-Ukraine war: Putin tells Russia his war objectives are unchanged - BBC News
+1631,3017,2023-12-13,2213,2023-12-13,0.829631507396698,"Dozens hurt, children’s hospital damaged, in Russian missile attack on Kyiv",Ukraine war: Dozens wounded in Russian missile strikes on Kyiv - BBC News
+1682,3021,2023-12-12,2220,2023-12-11,0.737695574760437,Ukraine’s Zelenskyy arrives in the US. What’s on the agenda?,Ukraine war: Zelensky makes plea for US aid ahead of Biden meeting - BBC News
+1722,3025,2023-12-11,2220,2023-12-11,0.725778341293335,Zelenskyy says delaying aid is a gift to Putin as he seeks US support,Ukraine war: Zelensky makes plea for US aid ahead of Biden meeting - BBC News
+1757,3029,2023-12-11,2223,2023-12-11,0.7398532629013062,UK sends minehunters to boost Ukraine’s Black Sea forces,UK to give two Royal Navy minehunter ships to Ukraine - BBC News
+1901,3042,2023-12-05,2242,2023-12-04,0.7381510734558105,Deputy Russian army commander killed in Ukraine: Official,Ukraine: Russian official confirms general's death in action - BBC News
+1936,3051,2023-11-28,2252,2023-11-28,0.7575581669807434,"Ukraine says Marianna Budanova, wife of military spy chief, was poisoned","Ukraine spy chief's wife poisoned, says Kyiv - BBC News"
+1973,3058,2023-11-25,2259,2023-11-25,0.7580562829971313,"More than 70 Russian drones hit Kyiv, wounding five: Ukrainian officials",Ukraine war: Kyiv hit by biggest drone attack since war began - BBC News
+1977,3059,2023-11-24,2261,2023-11-23,0.7534219026565552,Russian actress dies on stage as Ukraine ramps up air attacks,Russian actress killed in Ukrainian strike on event for troops - BBC News
+2133,3086,2023-11-14,2279,2023-11-14,0.9671488404273988,Russian convicted over journalist Anna Politkovskaya’s murder pardoned,Anna Politkovskaya: Russian convicted of journalist murder gets pardon - BBC News
+2182,3097,2023-11-08,2286,2023-11-08,0.8202105760574341,Ukraine says Russia struck civilian ship near Odesa,Russia strikes civilian ship in Black Sea port of Odesa - Ukraine - BBC News
+2196,3099,2023-11-08,2288,2023-11-08,0.8545384407043457,Ukraine gets European Commission nod to start EU membership talks,Ukraine gets European Commission backing for talks on Ukraine membership - BBC News
+2285,3119,2023-11-01,2297,2023-11-01,0.7342593669891357,"Russia attacks more than 100 settlements in 24 hours, Ukraine says","Ukraine war: Russia hits most settlements in one day, says Kyiv - BBC News"
+2402,3145,2023-10-22,2312,2023-10-22,0.7955377697944641,"Russian missile strike on mail depot in Ukraine kills six, officials say",Ukraine war: Six postal workers killed in Kharkiv missile strike - BBC News
+2418,3147,2023-10-20,2317,2023-10-20,0.7323259115219116,Biden asks US Congress for $105bn in assistance for Israel and Ukraine,Biden seeks 'vital' war aid for Israel and Ukraine - BBC News
+2459,3154,2023-10-18,2321,2023-10-19,0.827886700630188,Russia’s Lavrov visits North Korea amid claims of military cooperation,Russia's Lavrov hails deeper ties in N Korea visit - BBC News
+2472,3157,2023-10-17,2322,2023-10-17,0.8050637245178223,"Ukraine uses ATACMS long-range missiles, Zelenskyy says","Ukraine uses US-supplied ATACMS for the first time, says Zelensky - BBC News"
+2489,3162,2023-10-16,2324,2023-10-16,0.7896703481674194,Ukrainian children repatriated from Russia through Qatari mediation,Russia returns four Ukrainian children in Qatari deal - BBC News
+2588,3187,2023-10-06,2335,2023-10-06,0.7909367680549622,‘You can still smell the blood’: Shock turns to grief in Ukraine’s Hroza,Ukraine war: Blood stains visible in the soil as village of Hroza mourns - BBC News
+2741,3201,2023-10-03,2349,2023-10-02,0.8204687833786011,Ukraine to build first underground school to protect from Russian air raids,Ukraine war: First underground school to be built in Kharkiv - BBC News
+2875,3224,2023-09-26,2358,2023-09-27,0.7178844213485718,Russian Black Sea commander seen in video after Ukraine said it killed him,Viktor Sokolov: Russian video 'shows Black Sea fleet commander alive' - BBC News
+2924,3231,2023-09-23,2367,2023-09-23,0.8984326124191284,"Ukraine to receive US long-range ATACMS missiles, US media report",Ukraine war: US to give Kyiv long-range ATACMS missiles - media reports - BBC News
+2948,3234,2023-09-22,2369,2023-09-22,0.7095099687576294,Ukraine’s Zelenskyy blasts Russian ‘genocide’ before Canadian parliament,Ukraine's Volodymyr Zelensky visits Canada for first time since Russia invasion - BBC News
+2949,3234,2023-09-22,2370,2023-09-22,0.7406237125396729,Ukraine’s Zelenskyy blasts Russian ‘genocide’ before Canadian parliament,Ukraine war latest: Zelensky to speak in Canada after strike on Crimea navy base - BBC News
+3270,3269,2023-09-15,2386,2023-09-16,0.7318459749221802,"Ukraine says Russian missile defence destroyed in Crimea, 2 warships hit",Ukraine's Crimea attacks seen as key to counter-offensive against Russia - BBC News
+3278,3269,2023-09-15,2394,2023-09-14,0.7654179334640503,"Ukraine says Russian missile defence destroyed in Crimea, 2 warships hit","Russian air defence system destroyed in Crimea, Ukraine says - BBC News"
+3500,3284,2023-09-12,2408,2023-09-11,0.7237966656684875,"Ukraine says Black Sea gas, oil platforms recaptured from Russian control",Ukraine claims to retake Black Sea drilling rigs from Russian control - BBC News
+3510,3285,2023-09-12,2404,2023-09-12,0.79166579246521,‘A new and terrifying world’: Kim and Putin to meet again in Russia,Putin and Kim: Friends in need (of ammunition) - BBC News
+3594,3292,2023-09-10,2414,2023-09-10,0.7839229702949524,"Ukraine, Russia report downing dozens of drones over Kyiv, Crimea","Ukraine war: Kyiv foils big Russian drone attack, officials say - BBC News"
+3763,3306,2023-09-07,2424,2023-09-07,0.7650556564331055,Russia blasts ‘inhumanity’ of US sending depleted uranium shells to Ukraine,Ukraine war: US to arm Kyiv with depleted uranium tank shells - BBC News
+3835,3310,2023-09-06,2428,2023-09-06,0.8199292421340942,Romania claims parts of possible Russian drone fell on its territory,Ukraine war: Romania reveals Russian drone parts hit its territory - BBC News
+3913,3314,2023-09-06,2434,2023-09-06,0.8719573020935059,UK to declare Russia’s Wagner Group a ‘terrorist’ organisation,Wagner to be declared a terrorist organisation by UK - BBC News
+4043,3321,2023-09-05,2437,2023-09-05,0.8882585763931274,Cuba uncovers network trafficking Cubans to fight for Russia in Ukraine,Cuba uncovers Russia-Ukraine war trafficking ring - BBC News
+4102,3324,2023-09-05,2439,2023-09-05,0.8708261847496033,Russian General Surovikin seen in first photo since Wagner mutiny: Reports,Ukraine war: Sergei Surovikin 'seen in first photo' since Wagner mutiny - BBC News
+4153,3328,2023-09-04,2441,2023-09-04,0.982299268245697,"Who is Rustem Umerov, Ukraine’s next defence minister?",Rustem Umerov: Who is Ukraine's next defence minister? - BBC News
+4225,3334,2023-09-02,2448,2023-09-02,0.7494376301765442,Ukraine tycoon Ihor Kolomoisky taken into custody over fraud allegations,Ukrainian billionaire Ihor Kolomoisky held in anti-corruption drive - BBC News
+4240,3335,2023-09-02,2449,2023-09-02,0.7169023752212524,"Nobel Foundation reverses invitations to Russia, Iran after backlash",Ukraine war: Nobel Prize invitation to Russia and Iran withdrawn - BBC News
+4249,3335,2023-09-02,2458,2023-09-01,0.7248404026031494,"Nobel Foundation reverses invitations to Russia, Iran after backlash",Ukraine war: Russia and Iran invited back to Nobel Prize banquet - BBC News
+4326,3341,2023-09-01,2454,2023-09-01,0.7055016756057739,"Ukrainian drone hits Russia’s Kursk region, Moscow repels attack: Officials",What do we know about drone attacks in Russia? - BBC News
+4327,3341,2023-09-01,2455,2023-09-01,0.7241868376731873,"Ukrainian drone hits Russia’s Kursk region, Moscow repels attack: Officials",Ukraine war: Drone attack on Pskov airbase from inside Russia - Kyiv - BBC News
+4332,3341,2023-09-01,2460,2023-08-31,0.7166374325752258,"Ukrainian drone hits Russia’s Kursk region, Moscow repels attack: Officials",Ukraine war: Kyiv confirms drone attack on Russia's Pskov airbase - BBC News
+4462,3352,2023-08-30,2463,2023-08-30,0.7696526646614075,Ukrainian drones attack Russian airport in large-scale raids on six regions,Ukraine war: Wave of drone strikes hits several Russian regions - BBC News
+4473,3353,2023-08-29,2467,2023-08-29,0.787218451499939,Wagner chief Yevgeny Prigozhin buried at St Petersburg cemetery,Prigozhin buried in private funeral - Wagner chief's press service - BBC News
+4477,3354,2023-08-29,2463,2023-08-30,0.7371596097946167,Ukraine drones destroyed in latest raids on Russian territory,Ukraine war: Wave of drone strikes hits several Russian regions - BBC News
+4521,3361,2023-08-27,2470,2023-08-27,0.8998808860778809,Wagner boss Yevgeny Prigozhin confirmed dead in crash,Wagner boss Prigozhin confirmed dead in plane crash - Moscow - BBC News
+4525,3362,2023-08-27,2470,2023-08-27,0.744396448135376,Russia confirms death of Wagner chief Prigozhin after genetic tests,Wagner boss Prigozhin confirmed dead in plane crash - Moscow - BBC News
+4572,3368,2023-08-25,2483,2023-08-24,0.7574129104614258,‘Absolute lie’: Russia denies role in Yevgeny Prigozhin plane crash,How Russia reacted after Prigozhin plane crash - BBC News
+4648,3374,2023-08-24,2483,2023-08-24,0.7169339656829834,What did President Putin say about the Russia plane crash,How Russia reacted after Prigozhin plane crash - BBC News
+4661,3375,2023-08-24,2479,2023-08-24,0.8396860361099243,Ukraine says troops landed on Crimea in ‘special operation’,Ukraine claims Crimea landing for 'special operation' on Independence Day - BBC News
+4710,3378,2023-08-24,2477,2023-08-24,0.7195836901664734,Will Russia’s Putin benefit from Prigozhin’s presumed plane crash death?,Putin breaks silence over Prigozhin's reported death - BBC News
+4716,3378,2023-08-24,2483,2023-08-24,0.8094949722290039,Will Russia’s Putin benefit from Prigozhin’s presumed plane crash death?,How Russia reacted after Prigozhin plane crash - BBC News
+4733,3379,2023-08-24,2483,2023-08-24,0.7201791405677795,Russian villagers report explosion before ‘Prigozhin’ plane crash,How Russia reacted after Prigozhin plane crash - BBC News
+4778,3382,2023-08-23,2481,2023-08-24,0.7110434174537659,Wagner’s boss Yevgeny Prigozhin on crashed plane: What to know,Wagner defied Putin and now its leader Prigozhin may be dead - BBC News
+4781,3382,2023-08-23,2484,2023-08-23,0.7638828754425049,Wagner’s boss Yevgeny Prigozhin on crashed plane: What to know,Wagner boss Prigozhin's years of living dangerously - BBC News
+4795,3383,2023-08-23,2481,2023-08-24,0.733221709728241,Global reaction to possible death of Wagner chief Yevgeny Prigozhin,Wagner defied Putin and now its leader Prigozhin may be dead - BBC News
+4798,3383,2023-08-23,2484,2023-08-23,0.7408407330513,Global reaction to possible death of Wagner chief Yevgeny Prigozhin,Wagner boss Prigozhin's years of living dangerously - BBC News
+4856,3386,2023-08-23,2491,2023-08-22,0.7482743263244629,Russia downs 3 combat drones in latest attempted raid on Moscow,"Two Ukrainian drones downed over Moscow region, says Russia - BBC News"
+4924,3391,2023-08-22,2491,2023-08-22,0.7437931895256042,"Russian air defences down two drones near Moscow, mayor says","Two Ukrainian drones downed over Moscow region, says Russia - BBC News"
+5028,3403,2023-08-18,2503,2023-08-18,0.8175386190414429,"Ukraine combat drone damages building in central Moscow, Russia says",Drone attack hits building in central Moscow - BBC News
+5179,3420,2023-08-15,2511,2023-08-15,0.8217946887016296,Russia’s central bank hikes rates to 12 percent to halt rouble’s slide,Russia hikes interest rates to 12% as rouble falls - BBC News
+5229,3425,2023-08-13,2518,2023-08-13,0.8193321824073792,Family killed in Russian shelling in Ukraine’s Kherson,Ukraine war: Three-week-old baby and family among seven killed in Russian shelling - BBC News
+5292,3435,2023-08-10,2522,2023-08-10,0.790081799030304,Ukraine orders civilian evacuation of Kharkiv areas as Russians advance,Ukraine orders evacuation of parts of north-east - BBC News
+5353,3442,2023-08-09,2526,2023-08-09,0.8442321419715881,"At least two killed in Russian attack on Zaporizhzhia city, Ukraine says",Ukraine war: Two people killed in Zaporizhzhia attack - BBC News
+5408,3448,2023-08-07,2530,2023-08-08,0.8600204586982727,"At least 8 killed in Russian missile attack in Pokrovsk, eastern Ukraine",Ukraine war: Seven killed in Russian missile strike on eastern town of Pokrovsk - BBC News
+5736,3483,2023-07-27,2567,2023-07-27,0.7828945517539978,Putin on a charm offensive as Russia-Africa Summit kicks off,Russia-Africa summit: Putin seeks to extend influence - BBC News
+5862,3495,2023-07-24,2576,2023-07-24,0.8057618141174316,Russia says it foiled a Ukrainian drone attack on Moscow,Russia accuses Ukraine of Moscow drone attack - BBC News
+5880,3497,2023-07-23,2578,2023-07-23,0.7512845396995544,"Russian missile attack on Odesa kills one, damages cathedral",Ukraine war: Russian strikes on Odesa damage Orthodox cathedral - BBC News
+5951,3504,2023-07-21,2588,2023-07-20,0.8900254368782043,US says Ukraine’s use of cluster bombs against Russia ‘effective’,"Cluster bombs: Ukraine using munitions 'effectively', says US - BBC News"
+6001,3508,2023-07-20,2590,2023-07-20,0.7003285884857178,Wheat at 3-week high as Ukraine port attacks cause supply fear,Ukraine war: Wheat prices soar after Russia threatens ships - BBC News
+6094,3514,2023-07-19,2596,2023-07-19,0.8211612701416016,‘Join hands with us’: Britain’s MI6 chief urges Russians to spy,"Disaffected Russians spying for UK, says MI6 head - BBC News"
+6275,3528,2023-07-16,2604,2023-07-17,0.7234853506088257,East Ukraine fighting ‘intensifies’ as Putin dismisses offensive,Ukraine war: Vladimir Putin vows response after 'terrorist' attack on Crimea bridge - BBC News
+6337,3537,2023-07-14,2610,2023-07-15,0.7659586071968079,"Wagner mercenaries offered chance to serve in Russia, Putin says","Wagner mercenaries have arrived in Belarus, Ukraine confirms - BBC News"
+6374,3541,2023-07-13,2615,2023-07-13,0.7499504089355469,Russian general in Ukraine removed for strategy criticism: Report,Ukraine war: Russian general fired after criticising army leaders - BBC News
+6476,3550,2023-07-12,2614,2023-07-13,0.7460867166519165,Surovikin: Russian general missing since Wagner mutiny ‘resting’,Ukraine war: Wagner-linked senior general Sergei Surovikin 'resting' - BBC News
+6519,3552,2023-07-12,2627,2023-07-11,0.7229986190795898,Full text: NATO Vilnius summit communique,Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius - BBC News
+6642,3560,2023-07-11,2618,2023-07-12,0.704209566116333,"As NATO meets on Ukraine, Russian officials fire warnings at West",Nato: Warm words but a diplomatic reality check for Ukraine - BBC News
+6741,3565,2023-07-10,2626,2023-07-11,0.715916097164154,NATO ‘must confirm’ Ukraine is ‘de facto’ a member: Zelenskyy,Nato membership for Ukraine a key question at Vilnius summit - BBC News
+6742,3565,2023-07-10,2627,2023-07-11,0.7102583646774292,NATO ‘must confirm’ Ukraine is ‘de facto’ a member: Zelenskyy,Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius - BBC News
+6779,3567,2023-07-10,2626,2023-07-11,0.914687156677246,"NATO membership of Ukraine, Sweden in focus at Vilnius summit",Nato membership for Ukraine a key question at Vilnius summit - BBC News
+6780,3567,2023-07-10,2627,2023-07-11,0.8866565823554993,"NATO membership of Ukraine, Sweden in focus at Vilnius summit",Nato summit: Ukraine's future membership to be discussed by leaders in Vilnius - BBC News
+6789,3567,2023-07-10,2636,2023-07-10,0.726557195186615,"NATO membership of Ukraine, Sweden in focus at Vilnius summit",Nato aims for Ukraine unity as Putin watches on - BBC News
+6955,3578,2023-07-07,2642,2023-07-08,0.7013221979141235,US to give Ukraine widely banned cluster munitions despite fears,Rishi Sunak says the UK discourages use of cluster bombs in Ukraine - BBC News
+6959,3578,2023-07-07,2646,2023-07-07,0.8718542456626892,US to give Ukraine widely banned cluster munitions despite fears,US plans to send controversial cluster munitions to Ukraine - BBC News
+6999,3582,2023-07-07,2642,2023-07-08,0.7138922810554504,US to send cluster bombs to Ukraine despite humanitarian concerns,Rishi Sunak says the UK discourages use of cluster bombs in Ukraine - BBC News
+7000,3582,2023-07-07,2643,2023-07-08,0.7543628215789795,US to send cluster bombs to Ukraine despite humanitarian concerns,Cluster bombs: Biden defends decision to send Ukraine controversial weapons - BBC News
+7003,3582,2023-07-07,2646,2023-07-07,0.8884896039962769,US to send cluster bombs to Ukraine despite humanitarian concerns,US plans to send controversial cluster munitions to Ukraine - BBC News
+7048,3587,2023-07-06,2651,2023-07-06,0.7877077460289001,"After brief exile in Belarus, Wagner boss in Russia: Lukashenko","Wagner boss Prigozhin is in Russia, Belarus ruler Lukashenko says - BBC News"
+7064,3590,2023-07-06,2649,2023-07-06,0.7379679679870605,"At least 4 killed in Russian missile attack on Lviv city, Ukraine",Ukraine war: Six killed in Lviv as Russian strike hits apartment building in western city - BBC News
+7162,3605,2023-07-03,2657,2023-07-03,0.801253080368042,"Victoria Amelina, Ukrainian novelist, killed in Russian attack",Victoria Amelina: Ukrainian writer dies after Kramatorsk strike - BBC News
+7202,3610,2023-07-02,2656,2023-07-03,0.733786940574646,Russia attacks Ukraine’s Kyiv as fierce battles rage in Donetsk,Ukraine war: The lethal minefields holding up Kyiv's counter-offensive - BBC News
+7351,3628,2023-06-27,2668,2023-06-28,0.7411024570465088,Russia bombs busy Ukraine restaurant,Kramatorsk: Russian missile strike hits restaurants in Ukrainian city - BBC News
+7365,3629,2023-06-27,2671,2023-06-27,0.791839599609375,UN documents summary execution of 77 Ukrainian civilians,"Ukraine war: Russia executed 77 civilians detained by its forces, UN says - BBC News"
+7436,3635,2023-06-27,2676,2023-06-26,0.7979798913002014,In his words: Wagner chief Prigozhin on the Moscow ‘mutiny’,Wagner mutiny: Prigozhin's soldiers rage while others cry conspiracy - BBC News
+7437,3635,2023-06-27,2677,2023-06-26,0.7032310366630554,In his words: Wagner chief Prigozhin on the Moscow ‘mutiny’,Russia still investigating Wagner boss Prigozhin for treason - BBC News
+7484,3639,2023-06-26,2679,2023-06-25,0.7732459902763367,Moscow’s fallout with Wagner: Your guide to the Russian rebellion,"Wagner, Prigozhin, Putin and Shoigu: Bitter rivalries that led to a rebellion - BBC News"
+7485,3639,2023-06-26,2680,2023-06-25,0.72635817527771,Moscow’s fallout with Wagner: Your guide to the Russian rebellion,Russia: Wagner mutiny shows real cracks in Putin authority - US - BBC News
+7494,3640,2023-06-26,2676,2023-06-26,0.7713825702667236,‘Not overthrowing power’: Wagner boss Prigozhin defends uprising,Wagner mutiny: Prigozhin's soldiers rage while others cry conspiracy - BBC News
+7497,3640,2023-06-26,2679,2023-06-25,0.7091845273971558,‘Not overthrowing power’: Wagner boss Prigozhin defends uprising,"Wagner, Prigozhin, Putin and Shoigu: Bitter rivalries that led to a rebellion - BBC News"
+7530,3643,2023-06-26,2672,2023-06-27,0.7523539066314697,Russia’s ‘internal affair’: China plays down Wagner mutiny impact,"Wagner mutiny: Group fully funded by Russia, says Putin - BBC News"
+7537,3643,2023-06-26,2680,2023-06-25,0.7942885160446167,Russia’s ‘internal affair’: China plays down Wagner mutiny impact,Russia: Wagner mutiny shows real cracks in Putin authority - US - BBC News
+7569,3646,2023-06-25,2678,2023-06-25,0.7025099396705627,US officials see weakened Putin as Russia tumult reveals ‘cracks’,Russia: Instability ratchets up pressure on Vladimir Putin - BBC News
+7604,3649,2023-06-24,2679,2023-06-25,0.7004492878913879,Timeline: How Wagner Group’s revolt against Russia unfolded,"Wagner, Prigozhin, Putin and Shoigu: Bitter rivalries that led to a rebellion - BBC News"
+7608,3649,2023-06-24,2683,2023-06-24,0.7330206632614136,Timeline: How Wagner Group’s revolt against Russia unfolded,Wagner chief's 24 hours of chaos in Russia - BBC News
+7615,3650,2023-06-24,2680,2023-06-25,0.7813870906829834,Wagner mutiny reflects fault lines in Russia: Analysts,Russia: Wagner mutiny shows real cracks in Putin authority - US - BBC News
+7645,3653,2023-06-24,2680,2023-06-25,0.7284870147705078,"Ukraine responds to Wagner mutiny in Russia with caution, hope",Russia: Wagner mutiny shows real cracks in Putin authority - US - BBC News
+7746,3665,2023-06-22,2689,2023-06-22,0.7515819072723389,Ukraine missiles damage bridge to Crimea: Russian officials,"Ukraine strikes Chonhar bridge to Crimea, says Russia - BBC News"
+7761,3666,2023-06-22,2695,2023-06-21,0.865426242351532,Ukraine offensive against Russia not ‘Hollywood movie’: Zelenskyy,Ukraine war: Zelensky admits slow progress but says offensive is not a movie - BBC News
+7877,3676,2023-06-19,2702,2023-06-19,0.7763735055923462,South Africa leader hails ‘historic’ Ukraine peace mission,Africa's Ukraine-Russia peace mission: What was achieved? - BBC News
+7901,3680,2023-06-18,2703,2023-06-19,0.7116110920906067,"Russia-Ukraine war: List of key events, day 480",Ukraine war: BBC on the front line as Ukraine attacks Russian trenches - BBC News
+7905,3681,2023-06-17,2704,2023-06-17,0.9124674201011658,"War in Ukraine must stop, South Africa’s Ramaphosa tells Putin","Ukraine war must end, South African President Ramaphosa tells Putin - BBC News"
+7908,3681,2023-06-17,2707,2023-06-16,0.7618297934532166,"War in Ukraine must stop, South Africa’s Ramaphosa tells Putin",Why South Africa's Cyril Ramaphosa is leading Ukraine peace mission - BBC News
+7911,3682,2023-06-17,2705,2023-06-17,0.7609035968780518,"Putin confirms nukes in Belarus, US slates Russian sabre-rattling",Ukraine war: Putin confirms first nuclear weapons moved to Belarus - BBC News
+7990,3691,2023-06-15,2712,2023-06-15,0.7782045602798462,"As Russians fight for Ukraine, Kyiv is faced with a new dilemma",Ukraine war: 'Extremely fierce battles' as Kyiv seeks to advance - BBC News
+7995,3691,2023-06-15,2717,2023-06-14,0.7435885667800903,"As Russians fight for Ukraine, Kyiv is faced with a new dilemma",Ukraine war latest: 'Extremely fierce battles' as Kyiv's troops try to take ground - BBC News
+8008,3693,2023-06-15,2708,2023-06-15,0.8093203902244568,Australia blocks new Russian embassy near parliament in Canberra,Russian embassy: Australia blocks new Canberra site over spying risk - BBC News
+8109,3702,2023-06-13,2713,2023-06-14,0.7044122815132141,Belarus will not hesitate to use nukes if aggressed: Lukashenko,"Russian nuclear weapons 'in hands of Belarus dictator', warns opposition leader - BBC News"
+8226,3713,2023-06-11,2726,2023-06-11,0.7502517700195312,Zelenskyy says counteroffensive actions under way against Russia,"Ukraine counter-offensive actions have begun, Zelensky says - BBC News"
+8247,3715,2023-06-10,2730,2023-06-09,0.7144155502319336,Putin claims Russian forces halting Ukrainian counteroffensive,Ukraine's counter-offensive against Russia under way - BBC News
+8296,3719,2023-06-09,2729,2023-06-09,0.7896151542663574,"In Russia-occupied Kherson, flood aid slow to come: Residents",Ukraine dam: The friends who escaped Russian occupation in Kherson floods - BBC News
+8312,3720,2023-06-09,2730,2023-06-09,0.8700852990150452,Ukraine counteroffensive against Russia under way: think tank,Ukraine's counter-offensive against Russia under way - BBC News
+8434,3727,2023-06-07,2739,2023-06-08,0.8029230833053589,‘It’s a nightmare’: Ukrainians decry the Kakhovka dam blast,Ukraine dam: What we know about Nova Kakhovka incident - BBC News
+8453,3728,2023-06-07,2739,2023-06-08,0.7484896779060364,Nova Kakhovka dam blast: Is Russia trying to freeze the war?,Ukraine dam: What we know about Nova Kakhovka incident - BBC News
+8547,3733,2023-06-06,2745,2023-06-07,0.9379397630691528,Hundreds flee floods in Ukraine after Nova Kakhovka dam breached,Ukraine dam: Thousands flee floods after dam collapse near Nova Kakhovka - BBC News
+8553,3733,2023-06-06,2751,2023-06-07,0.7319762706756592,Hundreds flee floods in Ukraine after Nova Kakhovka dam breached,"Ukraine war: Twenty-nine communities flooded after dam breach, says official - BBC News"
+8566,3734,2023-06-06,2745,2023-06-07,0.7506043314933777,All to know about Ukraine’s Nova Kakhovka dam explosion,Ukraine dam: Thousands flee floods after dam collapse near Nova Kakhovka - BBC News
+8589,3735,2023-06-06,2749,2023-06-06,0.716320812702179,‘Wild fantasies’: Wagner boss tears into Russian success claims,Ukraine war: Wagner boss rubbishes Russian claims of Ukrainian casualties - BBC News
+8672,3739,2023-06-06,2756,2023-06-05,0.7241820096969604,"Russia-Ukraine war: List of key events, day 468",Ukraine war: Russia says it thwarted major Ukrainian offensive - BBC News
+8705,3741,2023-06-05,2756,2023-06-05,0.8167290687561035,Russia claims to have thwarted ‘large-scale’ Ukraine attack,Ukraine war: Russia says it thwarted major Ukrainian offensive - BBC News
+8723,3742,2023-06-05,2756,2023-06-05,0.7139357328414917,"Russia-Ukraine war: List of key events, day 467",Ukraine war: Russia says it thwarted major Ukrainian offensive - BBC News
+8745,3744,2023-06-04,2756,2023-06-05,0.7112576961517334,"Russia-Ukraine war: List of key events, day 466",Ukraine war: Russia says it thwarted major Ukrainian offensive - BBC News
+8764,3745,2023-06-04,2763,2023-06-04,0.8048422336578369,"Russian attack wounds 20, including children in Ukraine’s Dnipro","Ukraine war: Girl, 2, killed and many injured in Dnipro after Russian strike - BBC News"
+8810,3750,2023-06-02,2771,2023-06-01,0.7402853965759277,"Russia thwarts more Belgorod attacks, blames Ukraine",Belgorod: Russia blames Ukraine for shelling inside border - BBC News
+8880,3757,2023-06-01,2773,2023-06-01,0.7171860933303833,"Mother, daughter among 3 killed in Russian missile attack on Kyiv",Ukraine war: Three killed in overnight missile attack on Kyiv - BBC News
+8960,3766,2023-05-30,2775,2023-05-31,0.7373349666595459,"After drone attack, fears, anger and a sense of calm in Moscow",Moscow drone attack: What we know about the strikes - BBC News
+8962,3766,2023-05-30,2777,2023-05-30,0.7063245177268982,"After drone attack, fears, anger and a sense of calm in Moscow",Moscow drone attack: Putin says Ukraine trying to frighten Russians - BBC News
+8976,3768,2023-05-30,2775,2023-05-31,0.824741005897522,"Drone attacks hit Moscow, sparking fury at the Kremlin",Moscow drone attack: What we know about the strikes - BBC News
+8979,3768,2023-05-30,2778,2023-05-30,0.7409086227416992,"Drone attacks hit Moscow, sparking fury at the Kremlin",Ukraine war: Moscow drone attacks targeted civilians - Putin - BBC News
+8996,3770,2023-05-30,2779,2023-05-30,0.7380391359329224,"Kyiv fends off latest Russian air attack, Zelenskyy lauds defence",Ukraine war: Russian air strikes target Kyiv for third night running - BBC News
+9057,3777,2023-05-28,2784,2023-05-28,0.7402845621109009,Russia unleashes ‘massive’ air raids on Ukraine’s Kyiv,Ukraine war: Kyiv hit by new massive Russian drone attack - BBC News
+9208,3793,2023-05-24,2792,2023-05-25,0.7264919877052307,Ukraine and Russia trade places in battle for Bakhmut,Ukraine war: Wagner says Bakhmut transfer to Russian army under way - BBC News
+9285,3798,2023-05-24,2804,2023-05-23,0.7087022662162781,"Russia-Ukraine war: List of key events, day 455",Ukraine war: Russia battles armed group in border region - BBC News
+9293,3799,2023-05-24,2799,2023-05-23,0.7716072201728821,Russia claims 70 attackers killed in cross-border Belgorod raid,Belgorod raid: Insurgents defeated after rare cross-border incursion - Russia - BBC News
+9296,3799,2023-05-24,2802,2023-05-23,0.7238484621047974,Russia claims 70 attackers killed in cross-border Belgorod raid,Belgorod raid: Who are the fighters infiltrating Russia from Ukraine? - BBC News
+9319,3801,2023-05-23,2802,2023-05-23,0.721351146697998,Attacks in Russia’s Belgorod: What we know so far,Belgorod raid: Who are the fighters infiltrating Russia from Ukraine? - BBC News
+9391,3806,2023-05-23,2804,2023-05-23,0.7224492430686951,"Russia-Ukraine war: List of key events, day 454",Ukraine war: Russia battles armed group in border region - BBC News
+9403,3807,2023-05-23,2802,2023-05-23,0.7577282786369324,Russian ‘clean up’ operation after raid on Belgorod from Ukraine,Belgorod raid: Who are the fighters infiltrating Russia from Ukraine? - BBC News
+9439,3810,2023-05-22,2804,2023-05-23,0.7152877449989319,"Russia-Ukraine war: List of key events, day 453",Ukraine war: Russia battles armed group in border region - BBC News
+9470,3813,2023-05-21,2805,2023-05-22,0.7151072025299072,Why is Bakhmut important in the Russia-Ukraine war?,Ukraine war: Wagner chief vows to hand Bakhmut to Russian army by June - BBC News
+9471,3813,2023-05-21,2806,2023-05-22,0.768156111240387,Why is Bakhmut important in the Russia-Ukraine war?,"Ukraine war: Bakhmut 'not occupied' by Russia, says defiant Zelensky - BBC News"
+9492,3814,2023-05-21,2815,2023-05-20,0.8077927827835083,Zelenskyy calls on G7 to ensure Russia is ‘last aggressor’,G7 summit: Russia warns of 'colossal risk' over jets as Zelensky attends G7 - BBC News
+9496,3815,2023-05-21,2807,2023-05-22,0.853041410446167,Tens of thousands rally in Moldova for EU membership,"Thousands mass for pro-EU rally in Moldovan capital, amid tensions with Russia - BBC News"
+9507,3816,2023-05-21,2806,2023-05-22,0.851565420627594,Russians ‘destroyed everything’ in Bakhmut: Ukraine’s Zelenskyy,"Ukraine war: Bakhmut 'not occupied' by Russia, says defiant Zelensky - BBC News"
+9518,3817,2023-05-21,2805,2023-05-22,0.7697585821151733,"Putin congratulates Russia troops, Wagner for ‘capturing Bakhmut’",Ukraine war: Wagner chief vows to hand Bakhmut to Russian army by June - BBC News
+9542,3819,2023-05-20,2809,2023-05-21,0.8091775178909302,Kyiv says Bakhmut situation ‘critical’ as Wagner claims control,Ukraine war: Kyiv rejects Wagner claim over Bakhmut - BBC News
+9571,3821,2023-05-20,2814,2023-05-20,0.7674662470817566,Russia: Giving F-16 fighter jets to Ukraine a ‘colossal risk’,Jets to Ukraine: Crucial questions over supplying F-16s to Kyiv - BBC News
+9579,3822,2023-05-20,2810,2023-05-20,0.7494680881500244,ICC war crimes prosecutor ‘wanted’ in Russia over Putin warrant,Ukraine war: ICC 'undeterred' by arrest warrant for chief prosecutor - BBC News
+9633,3826,2023-05-19,2818,2023-05-19,0.7339043021202087,G7 tightens sanctions over Russia’s war on Ukraine,"G7: New sanctions will make sure Russia pays a price, Sunak says - BBC News"
+9658,3828,2023-05-19,2815,2023-05-20,0.7737942934036255,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,G7 summit: Russia warns of 'colossal risk' over jets as Zelensky attends G7 - BBC News
+9741,3835,2023-05-18,2818,2023-05-19,0.7459923624992371,G7 weighs new sanctions on Russia to end Ukraine war,"G7: New sanctions will make sure Russia pays a price, Sunak says - BBC News"
+9795,3840,2023-05-17,2826,2023-05-17,0.7728701829910278,Russia agrees to renew Ukraine Black Sea grain deal for 60 days,Ukraine conflict: Black Sea grain deal extended for two months - BBC News
