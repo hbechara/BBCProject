@@ -1,105 +1,105 @@
-,aj_id,aj_date,cnn_id,cnn_date,cosine_similarity,aj_title,cnn_title
-48,2839,2024-02-13,4416,2024-02-13,0.7175881862640381,Russia puts Baltic officials on wanted list as Estonia warns of war plans,Russia places Estonia’s prime minister on wanted list
-73,2842,2024-02-13,4417,2024-02-12,0.7170965671539307,"US House speaker blasts aid deal for Israel, Ukraine as Senate backs bill","Senate passes $95 billion package with aid for Ukraine and Israel, setting up showdown with the House"
-113,2849,2024-02-11,4420,2024-02-11,0.8723652362823486,Ukraine intelligence ‘confirms’ Russian forces using Starlink,Ukraine claims Russian forces using Starlink network in occupied areas
-163,2854,2024-02-09,4429,2024-02-08,0.7700439095497131,Russia and Ukraine exchange 100 prisoners each after UAE mediation,Russia and Ukraine exchange hundreds of prisoners
-195,2858,2024-02-08,4427,2024-02-08,0.7880427241325378,Ukraine’s Zelenskyy names new army chief after dismissing Zaluzhny,Zelensky fires Ukraine’s military chief in major shakeup nearly two years into war
-318,2882,2024-02-01,4441,2024-02-01,0.7031117081642151,"In a sign of commitment, EU unlocks aid for Ukraine as it fights off Russia",EU agrees $50B funding deal for Ukraine at pivotal time in the war
-338,2884,2024-02-01,4441,2024-02-01,0.7192521095275879,European Union agrees on new $54bn aid package for Ukraine,EU agrees $50B funding deal for Ukraine at pivotal time in the war
-388,2889,2024-01-31,4443,2024-01-31,0.7578524351119995,Is Zelenskyy planning to fire Ukraine’s popular top army commander?,"Zelensky set to announce dismissal of Ukraine’s top commander within days as rift grows over war, source says"
-400,2890,2024-01-31,4446,2024-01-31,0.9194399118423462,Russia and Ukraine complete first prisoner exchange since plane crash,Russia and Ukraine complete ‘major’ prisoner exchange after mysterious plane crash
-451,2897,2024-01-29,4451,2024-01-28,0.7343038320541382,"Ukraine funding, Orban’s opposition set to dominate crucial EU summit",How Orban’s ties to Putin are putting European aid to Ukraine at risk
-463,2901,2024-01-28,4450,2024-01-28,0.8573040962219238,Ukraine says it uncovers $40m arms corruption scheme,Ukraine says it uncovered $40 million corruption scheme in weapons procurement
-496,2908,2024-01-25,4455,2024-01-25,0.8638820648193359,Russia jails nationalist critic Igor Girkin for four years over ‘extremism’,Pro-war Putin critic Igor Girkin sentenced to four years in Russian prison on extremism charges
-613,2935,2024-01-16,4466,2024-01-16,0.7108781337738037,Ukraine’s Zelenskyy urges Western allies to step up pressure on Russia,"Putin’s war must not become ‘frozen,’ Zelensky warns as Ukraine’s troops face shortages of weaponry and aid"
-629,2943,2024-01-13,4468,2024-01-13,0.7532881498336792,Ukraine says Russia launched barrage of missile attacks nationwide,Russia unleashes fresh barrage of missiles and drones against Ukraine
-687,2958,2024-01-06,4476,2024-01-06,0.7315828800201416,Ukraine says Russian missile attack kills 11 in eastern town,11 killed including 5 children in Russian strikes on eastern Ukrainian town
-690,2959,2024-01-04,4478,2024-01-05,0.8092126846313477,"Russia used North Korean missiles in Ukraine, US says","Russia is using North Korean missiles in Ukraine, US says. That’s bad news for Asia"
-697,2961,2024-01-03,4480,2024-01-04,0.9029025435447692,"Russia, Ukraine exchange hundreds of prisoners in largest release of war",Ukraine and Russia carry out largest prisoner exchange since beginning of the war
-786,2986,2023-12-26,4490,2023-12-26,0.7169234156608582,Russia confirms Ukraine destroyed its warship in Crimea attack,Ukraine claims it destroyed Russian tank landing ship
-824,3008,2023-12-15,4499,2023-12-14,0.7340894937515259,Hungary blocks $54bn EU financial aid for Ukraine,Hungary blocks Ukraine aid deal but EU opens door to membership talks
-901,3018,2023-12-13,4503,2023-12-13,0.7126277685165405,"Zelenskyy urges new Ukraine aid, as Biden warns funding delay helps Putin",Ukraine faces a daunting winter after Zelensky can’t convince Republicans to move quickly on new aid
-928,3021,2023-12-12,4507,2023-12-12,0.7278132438659668,Ukraine’s Zelenskyy arrives in the US. What’s on the agenda?,Zelensky’s latest Washington visit comes at critical moment for Ukraine on the battlefield and Capitol Hill
-979,3030,2023-12-11,4508,2023-12-10,0.7215701937675476,"Zelenskyy to meet US President Joe Biden, House Speaker as aid stumbles",Biden to host Ukrainian President Volodymyr Zelensky at White House Tuesday
-989,3033,2023-12-08,4511,2023-12-08,0.8300421237945557,"Russians, Belarusians to compete as ‘neutrals’ at 2024 Paris Olympics: IOC",Some Russian and Belarusian athletes can compete as neutrals at Paris 2024 if they meet eligibility requirements
-1078,3041,2023-12-05,4521,2023-12-06,0.7060432434082031,"Putin to visit Saudi Arabia, UAE with Israel-Hamas war on agenda",Putin makes rare foreign visit to UAE as Ukraine war grinds on
-1098,3044,2023-12-02,4529,2023-12-02,0.8322240710258484,"Russia boosts size of armed forces by 170,000 troops",Russia to boost size of army by 15% to 1.32 million
-1108,3046,2023-11-30,4533,2023-12-01,0.7150993347167969,"A hard, bloody winter awaits Ukrainian and Russian soldiers, say experts",Western officials warn Ukrainian forces face a difficult winter as Russia plans new strikes on infrastructure
-1154,3057,2023-11-26,4539,2023-11-26,0.711737334728241,"Russia downs Ukrainian drones, missiles day after its attack on Kyiv","Russia destroys Ukrainian drones including over Moscow, defense ministry says"
-1276,3086,2023-11-14,4554,2023-11-14,0.7079799175262451,Russian convicted over journalist Anna Politkovskaya’s murder pardoned,Organizer of Russian journalist’s murder pardoned after enlisting to fight in Ukraine
-1325,3099,2023-11-08,4561,2023-11-08,0.717690110206604,Ukraine gets European Commission nod to start EU membership talks,"Ukraine is ready to start process of joining European Union, Commission says"
-1332,3101,2023-11-08,4560,2023-11-08,0.7406712770462036,Car bomb kills Russia-backed politician in east Ukraine,Ukraine says it killed Kremlin-backed politician in car bombing in occupied Luhansk
-1367,3111,2023-11-04,4564,2023-11-05,0.7938430309295654,Ukraine’s Zelenskyy denies war with Russia at ‘stalemate’,"Tensions grow in Kyiv over status of war, as Zelensky insists conflict with Russia is not at a ‘stalemate’"
-1477,3145,2023-10-22,4578,2023-10-22,0.7912536859512329,"Russian missile strike on mail depot in Ukraine kills six, officials say",‘Horrific’ Russian attack on postal depot kills six in eastern Ukraine
-1495,3150,2023-10-19,4583,2023-10-19,0.7971715331077576,Russia detains journalist with dual Russian and US citizenship,US citizen working as journalist detained in Russia
-1532,3157,2023-10-17,4584,2023-10-17,0.861032247543335,"Ukraine uses ATACMS long-range missiles, Zelenskyy says","US has provided Ukraine long-range ATACMS missiles, sources say"
-1667,3192,2023-10-05,4598,2023-10-05,0.7315475940704346,Ukraine says 51 people killed in Russian attack on Kharkiv village,Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war
-1898,3229,2023-09-23,4622,2023-09-23,0.7177969217300415,‘Empire of lies’: Russia’s Lavrov slams West in UN speech,Russian foreign minister attacks West as ‘empire of lies’
-1929,3232,2023-09-23,4623,2023-09-23,0.9218366146087646,Poland’s PM tells Ukraine’s Zelenskyy to ‘never insult’ Polish people again,"Never ‘insult Poles again,’ Poland’s prime minister tells Ukraine’s Zelensky"
-1968,3235,2023-09-22,4628,2023-09-22,0.7454068660736084,"Ukrainian missile hits Russian navy headquarters in Crimea, one missing","Ukraine launches missile attack on Russia’s Black Sea Fleet headquarters in Crimea, officials say"
-2079,3241,2023-09-21,4640,2023-09-20,0.7488762140274048,Ukrainians aghast as Poland stops sending weapons to fight Russia,Poland will stop providing weapons to Ukraine as dispute over grain imports deepens
-2423,3265,2023-09-15,4657,2023-09-16,0.8207088708877563,"Hungary, Poland, Slovakia to continue own bans on Ukraine grains","Poland, Slovakia, and Hungary to defy EU and extend ban on Ukrainian grain imports"
-2493,3276,2023-09-13,4661,2023-09-14,0.7009299397468567,"Ukraine’s long arm disrupts Crimea, its patience breaches Russian defences",Why has Ukraine stepped up its strikes on occupied Crimea?
-2500,3277,2023-09-13,4662,2023-09-14,0.7116018533706665,Talks between North Korea’s Kim and Putin end in Russia: What did they say?,"Putin and Kim meet in Russia, but what are the main takeaways?"
-2503,3277,2023-09-13,4665,2023-09-12,0.7272239923477173,Talks between North Korea’s Kim and Putin end in Russia: What did they say?,Putin talks military cooperation with Kim as North Korean leader endorses Russia’s war on Ukraine
-2507,3278,2023-09-13,4663,2023-09-13,0.706537127494812,Fire engulfs shipyard hit by Ukrainian missiles in Russia-annexed Crimea,Ukrainian missiles strike Russian warships in Crimean naval base
-2677,3303,2023-09-07,4677,2023-09-07,0.9517440795898438,What are depleted uranium munitions and why is US sending them to Ukraine?,What are the depleted uranium munitions the US is sending to Ukraine and why are they contentious?
-2710,3306,2023-09-07,4677,2023-09-07,0.8101038932800293,Russia blasts ‘inhumanity’ of US sending depleted uranium shells to Ukraine,What are the depleted uranium munitions the US is sending to Ukraine and why are they contentious?
-2821,3317,2023-09-05,4684,2023-09-04,0.7576944828033447,Why would North Korea’s Kim and Russia’s Putin want to meet?,"North Korea’s Kim Jong Un may meet Putin in Russia to discuss arms deal, US says"
-2858,3321,2023-09-05,4685,2023-09-05,0.8662322759628296,Cuba uncovers network trafficking Cubans to fight for Russia in Ukraine,Cuba says ‘human trafficking network’ is sending its nationals to fight for Russia in Ukraine
-2892,3325,2023-09-04,4687,2023-09-04,0.7404929399490356,"Russia won’t renew grain deal until demands met, Putin tells Erdogan",Putin and Erdogan meet to discuss grain deal amid ‘shifting power balance’
-2897,3326,2023-09-04,4684,2023-09-04,0.8044056296348572,North Korean leader Kim expected to meet Russia’s Putin: US,"North Korea’s Kim Jong Un may meet Putin in Russia to discuss arms deal, US says"
-2927,3329,2023-09-04,4690,2023-09-03,0.7660528421401978,Russia attacks Ukraine grain port ahead of Putin-Erdogan talks,Russia strikes Ukrainian ports near NATO border ahead of talks to resume grain deal
-2969,3334,2023-09-02,4691,2023-09-03,0.7724611759185791,Ukraine tycoon Ihor Kolomoisky taken into custody over fraud allegations,Ukrainian oligarch and Zelensky supporter Ihor Kolomoisky arrested in fraud investigation
-2981,3335,2023-09-02,4692,2023-09-02,0.8337785601615906,"Nobel Foundation reverses invitations to Russia, Iran after backlash",Nobel Foundation reverses decision to invite Russia to prize ceremony following backlash
-3125,3349,2023-08-30,4697,2023-08-31,0.8019812107086182,Ukraine’s troops push towards Russia’s rear defences,Ukrainian forces penetrate ‘first line’ of Russian defenses on southern front
-3192,3358,2023-08-28,4708,2023-08-29,0.7615348100662231,How useful will the F-16s be in helping Ukraine?,No ‘silver bullet’: Ukraine faces many challenges in getting the F-16 into combat
-3275,3375,2023-08-24,4715,2023-08-24,0.8829987049102783,Ukraine says troops landed on Crimea in ‘special operation’,Ukraine says it landed troops on the shores of Russian-occupied Crimea
-3379,3396,2023-08-20,4722,2023-08-20,0.7001956701278687,Ukraine ‘sky shield getting stronger’ as allies supply coveted F-16s,Zelensky hails ‘historic’ supply of F-16s as Ukraine seeks to counter Russian air supremacy
-3421,3402,2023-08-18,4727,2023-08-17,0.724389374256134,Netherlands says US has approved delivery of F-16s to Ukraine,US commits to approving F-16s for Ukraine as soon as training is complete
-3539,3418,2023-08-16,4734,2023-08-15,0.8066436052322388,Poland holds huge military parade as war rages in neighbouring Ukraine,"Poland holds biggest military parade in decades, as its clout in Europe grows"
-3646,3434,2023-08-10,4743,2023-08-10,0.7239510416984558,$24bn for Ukraine tops Biden budget request ahead of looming showdown,Biden asks Congress for $24 billion in more Ukraine assistance
-3657,3435,2023-08-10,4746,2023-08-10,0.8483210802078247,Ukraine orders civilian evacuation of Kharkiv areas as Russians advance,Ukraine orders evacuation of northeastern city of Kupyansk as Russia claims advances
-3796,3449,2023-08-07,4757,2023-08-07,0.9196168184280396,Ukraine replaces Soviet hammer and sickle with trident on Kyiv monument,Ukraine replaces Soviet-era hammer and sickle symbol with a trident on Kyiv statue
-3808,3451,2023-08-06,4758,2023-08-06,0.7215840816497803,Russia unleashes strikes against Ukraine; Kyiv targets Crimea bridge,Explosions hit road bridges between Crimea and occupied Ukraine
-3832,3455,2023-08-05,4759,2023-08-05,0.7265909910202026,Russian tanker damaged in new water drone attack,Ukraine hits Russian oil tanker with sea drone hours after attacking naval base
-3886,3463,2023-08-02,4764,2023-08-02,0.8210738301277161,NATO allies beef up security due to Wagner troops’ presence in Belarus,Tensions high on NATO’s border with Belarus after Wagner troops move closer
-3980,3479,2023-07-28,4776,2023-07-28,0.7728052139282227,"Moscow says Ukraine fired missiles at Russian city, wounding 20",Russia says it shot down Ukrainian missile over southern city with 14 injured
-4141,3495,2023-07-24,4791,2023-07-23,0.8311596512794495,Russia says it foiled a Ukrainian drone attack on Moscow,"Ukraine carried out drone attack on Moscow, officials say"
-4217,3504,2023-07-21,4803,2023-07-20,0.8056545257568359,US says Ukraine’s use of cluster bombs against Russia ‘effective’,Ukraine has started using US provided cluster munitions in combat
-4397,3521,2023-07-17,4812,2023-07-17,0.7322004437446594,"As Russia exits grain deal, which countries will be affected?","Russia pulls out of Ukraine grain deal, in potential blow to global food supplies"
-4408,3522,2023-07-17,4813,2023-07-16,0.702364981174469,"Crimea bridge attack: What happened, why is the bridge important?",Ukraine claims responsibility for new attack on key Crimea bridge
-4409,3522,2023-07-17,4814,2023-07-17,0.7887834310531616,"Crimea bridge attack: What happened, why is the bridge important?",Why the Crimean Bridge is so important to Vladimir Putin
-4417,3523,2023-07-17,4812,2023-07-17,0.7205272912979126,Russia-Ukraine Black Sea grain deal: All you need to know,"Russia pulls out of Ukraine grain deal, in potential blow to global food supplies"
-4426,3524,2023-07-17,4811,2023-07-18,0.7048657536506653,Russia halts participation in Ukraine grain deal,Putin’s ruthless power play may not preclude a revival of Ukraine grain deal
-4427,3524,2023-07-17,4812,2023-07-17,0.8256902098655701,Russia halts participation in Ukraine grain deal,"Russia pulls out of Ukraine grain deal, in potential blow to global food supplies"
-4433,3524,2023-07-17,4818,2023-07-16,0.7048743963241577,Russia halts participation in Ukraine grain deal,Crucial deal on Ukraine grain exports on the brink of expiring
-5066,3576,2023-07-08,4850,2023-07-07,0.9684640169143676,"Ukraine ‘deserves’ NATO membership, Turkey’s Erdogan says",Turkey’s Erdogan says Ukraine deserves NATO membership
-5079,3578,2023-07-07,4843,2023-07-07,0.8361907601356506,US to give Ukraine widely banned cluster munitions despite fears,What are the cluster munitions the US is supplying Ukraine with and why are they so controversial?
-5081,3578,2023-07-07,4848,2023-07-07,0.9260077476501464,US to give Ukraine widely banned cluster munitions despite fears,US to send cluster munitions banned by over 100 nations to Ukraine after months of debate
-5119,3582,2023-07-07,4843,2023-07-07,0.7280002236366272,US to send cluster bombs to Ukraine despite humanitarian concerns,What are the cluster munitions the US is supplying Ukraine with and why are they so controversial?
-5121,3582,2023-07-07,4848,2023-07-07,0.831419050693512,US to send cluster bombs to Ukraine despite humanitarian concerns,US to send cluster munitions banned by over 100 nations to Ukraine after months of debate
-5155,3585,2023-07-06,4853,2023-07-06,0.7046357989311218,"Analyst: ‘Uneasy ceasefire’ between Wagner, Russia after mutiny","Wagner boss now in Russia, says Belarus president, muddying the waters over purported deal to end mutiny"
-5177,3587,2023-07-06,4853,2023-07-06,0.7757744193077087,"After brief exile in Belarus, Wagner boss in Russia: Lukashenko","Wagner boss now in Russia, says Belarus president, muddying the waters over purported deal to end mutiny"
-5426,3625,2023-06-28,4869,2023-06-28,0.8569306135177612,"Wagner boss Prigozhin has arrived in Belarus, says Lukashenko","Wagner chief Prigozhin is in Belarus following armed rebellion, Lukashenko says"
-5491,3632,2023-06-27,4871,2023-06-27,0.7340002059936523,Belarus role in Russia-Wagner feud ‘boosts Lukashenko’s clout’,Lukashenko claims he stopped Putin from ‘destroying’ Wagner group
-5584,3640,2023-06-26,4877,2023-06-26,0.7140281200408936,‘Not overthrowing power’: Wagner boss Prigozhin defends uprising,"The Wagner insurrection is over, but Putin and Prigozhin are keeping a low profile"
-5732,3652,2023-06-24,4883,2023-06-24,0.7289553880691528,"Wagner boss calls off march on Moscow, agrees to exile in Belarus","Wagner chief to leave Russia for Belarus in deal that ends armed insurrection, Kremlin says"
-6151,3713,2023-06-11,4910,2023-06-11,0.7718056440353394,Zelenskyy says counteroffensive actions under way against Russia,Zelensky signaled Ukraine’s counteroffensive against Russia is underway. Here’s what to expect
-6272,3726,2023-06-07,4915,2023-06-08,0.7172242403030396,Ukraine ramps up operations as dam destruction blame game unfolds,Here are the key theories on what caused Ukraine’s catastrophic dam collapse
-6290,3727,2023-06-07,4923,2023-06-07,0.7285780906677246,‘It’s a nightmare’: Ukrainians decry the Kakhovka dam blast,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’
-6352,3733,2023-06-06,4923,2023-06-07,0.7322819232940674,Hundreds flee floods in Ukraine after Nova Kakhovka dam breached,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’
-6362,3734,2023-06-06,4923,2023-06-07,0.8023607730865479,All to know about Ukraine’s Nova Kakhovka dam explosion,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’
-6367,3734,2023-06-06,4928,2023-06-06,0.7236699461936951,All to know about Ukraine’s Nova Kakhovka dam explosion,Collapse of critical Ukrainian dam sparks region-wide evacuations. Here’s what we know
-6382,3736,2023-06-06,4923,2023-06-07,0.7424319982528687,"Ukraine, Russia trade blame for destruction of Nova Kakhovka dam",Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’
-6648,3777,2023-05-28,4944,2023-05-29,0.7324982285499573,Russia unleashes ‘massive’ air raids on Ukraine’s Kyiv,Russia ‘changes tactics’ and hits Kyiv with daytime missile attack
-6888,3813,2023-05-21,4962,2023-05-22,0.703730583190918,Why is Bakhmut important in the Russia-Ukraine war?,"Russia has claimed to control Bakhmut, but Ukraine says it’s still fighting. Here’s what we know"
-6902,3814,2023-05-21,4966,2023-05-20,0.7258360385894775,Zelenskyy calls on G7 to ensure Russia is ‘last aggressor’,Zelensky marshals support for Ukraine during dramatic appearance at G7
-6920,3816,2023-05-21,4964,2023-05-20,0.7780932784080505,Russians ‘destroyed everything’ in Bakhmut: Ukraine’s Zelenskyy,Zelensky says fiercely contested Bakhmut ‘not occupied’ as Russia claims capture
-6983,3821,2023-05-20,4968,2023-05-20,0.8776317834854126,Russia: Giving F-16 fighter jets to Ukraine a ‘colossal risk’,Russia warns West of ‘enormous risks’ if Ukraine is supplied with F-16 jets
-7092,3828,2023-05-19,4966,2023-05-20,0.8405796885490417,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Zelensky marshals support for Ukraine during dramatic appearance at G7
-7095,3828,2023-05-19,4969,2023-05-19,0.7091231942176819,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Zelensky makes dramatic Japan appearance as G7 leaders take aim at Russia and China
-7099,3828,2023-05-19,4973,2023-05-19,0.7887140512466431,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Ukraine’s Zelensky caps frenetic week of diplomacy with plans to appear in person at Japan’s G7 summit
-7169,3831,2023-05-19,4980,2023-05-18,0.7006556391716003,Pentagon error said to overvalue Ukraine arms aid by $3bn,Accounting error frees $3 billion for Ukraine weapons assistance
-7227,3834,2023-05-18,4985,2023-05-18,0.7390557527542114,‘Pro-Russian neutrality’: How Ukraine sees China’s emerging role,China woos Central Asia as Ukraine war weakens Russian influence
-7336,3840,2023-05-17,4987,2023-05-17,0.7627544403076172,Russia agrees to renew Ukraine Black Sea grain deal for 60 days,Ukraine grain deal to be extended for 2 months
+﻿Column1,aj_id,aj_date,cnn_id,cnn_date,cosine_similarity,aj_title,cnn_title,matches
+48,2839,2/13/24,4416,2/13/24,0.717588186,Russia puts Baltic officials on wanted list as Estonia warns of war plans,Russia places Estonia’s prime minister on wanted list,1
+73,2842,2/13/24,4417,2/12/24,0.717096567,"US House speaker blasts aid deal for Israel, Ukraine as Senate backs bill","Senate passes $95 billion package with aid for Ukraine and Israel, setting up showdown with the House",1
+113,2849,2/11/24,4420,2/11/24,0.872365236,Ukraine intelligence ‘confirms’ Russian forces using Starlink,Ukraine claims Russian forces using Starlink network in occupied areas,1
+163,2854,2/9/24,4429,2/8/24,0.77004391,Russia and Ukraine exchange 100 prisoners each after UAE mediation,Russia and Ukraine exchange hundreds of prisoners,1
+195,2858,2/8/24,4427,2/8/24,0.788042724,Ukraine’s Zelenskyy names new army chief after dismissing Zaluzhny,Zelensky fires Ukraine’s military chief in major shakeup nearly two years into war,0
+318,2882,2/1/24,4441,2/1/24,0.703111708,"In a sign of commitment, EU unlocks aid for Ukraine as it fights off Russia",EU agrees $50B funding deal for Ukraine at pivotal time in the war,0
+338,2884,2/1/24,4441,2/1/24,0.71925211,European Union agrees on new $54bn aid package for Ukraine,EU agrees $50B funding deal for Ukraine at pivotal time in the war,1
+388,2889,1/31/24,4443,1/31/24,0.757852435,Is Zelenskyy planning to fire Ukraine’s popular top army commander?,"Zelensky set to announce dismissal of Ukraine’s top commander within days as rift grows over war, source says",1
+400,2890,1/31/24,4446,1/31/24,0.919439912,Russia and Ukraine complete first prisoner exchange since plane crash,Russia and Ukraine complete ‘major’ prisoner exchange after mysterious plane crash,1
+451,2897,1/29/24,4451,1/28/24,0.734303832,"Ukraine funding, Orban’s opposition set to dominate crucial EU summit",How Orban’s ties to Putin are putting European aid to Ukraine at risk,1
+463,2901,1/28/24,4450,1/28/24,0.857304096,Ukraine says it uncovers $40m arms corruption scheme,Ukraine says it uncovered $40 million corruption scheme in weapons procurement,1
+496,2908,1/25/24,4455,1/25/24,0.863882065,Russia jails nationalist critic Igor Girkin for four years over ‘extremism’,Pro-war Putin critic Igor Girkin sentenced to four years in Russian prison on extremism charges,1
+613,2935,1/16/24,4466,1/16/24,0.710878134,Ukraine’s Zelenskyy urges Western allies to step up pressure on Russia,"Putin’s war must not become ‘frozen,’ Zelensky warns as Ukraine’s troops face shortages of weaponry and aid",0
+629,2943,1/13/24,4468,1/13/24,0.75328815,Ukraine says Russia launched barrage of missile attacks nationwide,Russia unleashes fresh barrage of missiles and drones against Ukraine,1
+687,2958,1/6/24,4476,1/6/24,0.73158288,Ukraine says Russian missile attack kills 11 in eastern town,11 killed including 5 children in Russian strikes on eastern Ukrainian town,1
+690,2959,1/4/24,4478,1/5/24,0.809212685,"Russia used North Korean missiles in Ukraine, US says","Russia is using North Korean missiles in Ukraine, US says. That’s bad news for Asia",1
+697,2961,1/3/24,4480,1/4/24,0.902902544,"Russia, Ukraine exchange hundreds of prisoners in largest release of war",Ukraine and Russia carry out largest prisoner exchange since beginning of the war,1
+786,2986,12/26/23,4490,12/26/23,0.716923416,Russia confirms Ukraine destroyed its warship in Crimea attack,Ukraine claims it destroyed Russian tank landing ship,1
+824,3008,12/15/23,4499,12/14/23,0.734089494,Hungary blocks $54bn EU financial aid for Ukraine,Hungary blocks Ukraine aid deal but EU opens door to membership talks,1
+901,3018,12/13/23,4503,12/13/23,0.712627769,"Zelenskyy urges new Ukraine aid, as Biden warns funding delay helps Putin",Ukraine faces a daunting winter after Zelensky can’t convince Republicans to move quickly on new aid,0
+928,3021,12/12/23,4507,12/12/23,0.727813244,Ukraine’s Zelenskyy arrives in the US. What’s on the agenda?,Zelensky’s latest Washington visit comes at critical moment for Ukraine on the battlefield and Capitol Hill,1
+979,3030,12/11/23,4508,12/10/23,0.721570194,"Zelenskyy to meet US President Joe Biden, House Speaker as aid stumbles",Biden to host Ukrainian President Volodymyr Zelensky at White House Tuesday,1
+989,3033,12/8/23,4511,12/8/23,0.830042124,"Russians, Belarusians to compete as ‘neutrals’ at 2024 Paris Olympics: IOC",Some Russian and Belarusian athletes can compete as neutrals at Paris 2024 if they meet eligibility requirements,1
+1078,3041,12/5/23,4521,12/6/23,0.706043243,"Putin to visit Saudi Arabia, UAE with Israel-Hamas war on agenda",Putin makes rare foreign visit to UAE as Ukraine war grinds on,1
+1098,3044,12/2/23,4529,12/2/23,0.832224071,"Russia boosts size of armed forces by 170,000 troops",Russia to boost size of army by 15% to 1.32 million,1
+1108,3046,11/30/23,4533,12/1/23,0.715099335,"A hard, bloody winter awaits Ukrainian and Russian soldiers, say experts",Western officials warn Ukrainian forces face a difficult winter as Russia plans new strikes on infrastructure,1
+1154,3057,11/26/23,4539,11/26/23,0.711737335,"Russia downs Ukrainian drones, missiles day after its attack on Kyiv","Russia destroys Ukrainian drones including over Moscow, defense ministry says",1
+1276,3086,11/14/23,4554,11/14/23,0.707979918,Russian convicted over journalist Anna Politkovskaya’s murder pardoned,Organizer of Russian journalist’s murder pardoned after enlisting to fight in Ukraine,0
+1325,3099,11/8/23,4561,11/8/23,0.71769011,Ukraine gets European Commission nod to start EU membership talks,"Ukraine is ready to start process of joining European Union, Commission says",1
+1332,3101,11/8/23,4560,11/8/23,0.740671277,Car bomb kills Russia-backed politician in east Ukraine,Ukraine says it killed Kremlin-backed politician in car bombing in occupied Luhansk,1
+1367,3111,11/4/23,4564,11/5/23,0.793843031,Ukraine’s Zelenskyy denies war with Russia at ‘stalemate’,"Tensions grow in Kyiv over status of war, as Zelensky insists conflict with Russia is not at a ‘stalemate’",1
+1477,3145,10/22/23,4578,10/22/23,0.791253686,"Russian missile strike on mail depot in Ukraine kills six, officials say",‘Horrific’ Russian attack on postal depot kills six in eastern Ukraine,1
+1495,3150,10/19/23,4583,10/19/23,0.797171533,Russia detains journalist with dual Russian and US citizenship,US citizen working as journalist detained in Russia,1
+1532,3157,10/17/23,4584,10/17/23,0.861032248,"Ukraine uses ATACMS long-range missiles, Zelenskyy says","US has provided Ukraine long-range ATACMS missiles, sources say",0
+1667,3192,10/5/23,4598,10/5/23,0.731547594,Ukraine says 51 people killed in Russian attack on Kharkiv village,Ukraine says Russian strike killed 51 in one of the deadliest attacks of the war,1
+1898,3229,9/23/23,4622,9/23/23,0.717796922,‘Empire of lies’: Russia’s Lavrov slams West in UN speech,Russian foreign minister attacks West as ‘empire of lies’,1
+1929,3232,9/23/23,4623,9/23/23,0.921836615,Poland’s PM tells Ukraine’s Zelenskyy to ‘never insult’ Polish people again,"Never ‘insult Poles again,’ Poland’s prime minister tells Ukraine’s Zelensky",1
+1968,3235,9/22/23,4628,9/22/23,0.745406866,"Ukrainian missile hits Russian navy headquarters in Crimea, one missing","Ukraine launches missile attack on Russia’s Black Sea Fleet headquarters in Crimea, officials say",0
+2079,3241,9/21/23,4640,9/20/23,0.748876214,Ukrainians aghast as Poland stops sending weapons to fight Russia,Poland will stop providing weapons to Ukraine as dispute over grain imports deepens,1
+2423,3265,9/15/23,4657,9/16/23,0.820708871,"Hungary, Poland, Slovakia to continue own bans on Ukraine grains","Poland, Slovakia, and Hungary to defy EU and extend ban on Ukrainian grain imports",1
+2493,3276,9/13/23,4661,9/14/23,0.70092994,"Ukraine’s long arm disrupts Crimea, its patience breaches Russian defences",Why has Ukraine stepped up its strikes on occupied Crimea?,0
+2500,3277,9/13/23,4662,9/14/23,0.711601853,Talks between North Korea’s Kim and Putin end in Russia: What did they say?,"Putin and Kim meet in Russia, but what are the main takeaways?",0
+2503,3277,9/13/23,4665,9/12/23,0.727223992,Talks between North Korea’s Kim and Putin end in Russia: What did they say?,Putin talks military cooperation with Kim as North Korean leader endorses Russia’s war on Ukraine,1
+2507,3278,9/13/23,4663,9/13/23,0.706537127,Fire engulfs shipyard hit by Ukrainian missiles in Russia-annexed Crimea,Ukrainian missiles strike Russian warships in Crimean naval base,1
+2677,3303,9/7/23,4677,9/7/23,0.95174408,What are depleted uranium munitions and why is US sending them to Ukraine?,What are the depleted uranium munitions the US is sending to Ukraine and why are they contentious?,1
+2710,3306,9/7/23,4677,9/7/23,0.810103893,Russia blasts ‘inhumanity’ of US sending depleted uranium shells to Ukraine,What are the depleted uranium munitions the US is sending to Ukraine and why are they contentious?,0
+2821,3317,9/5/23,4684,9/4/23,0.757694483,Why would North Korea’s Kim and Russia’s Putin want to meet?,"North Korea’s Kim Jong Un may meet Putin in Russia to discuss arms deal, US says",1
+2858,3321,9/5/23,4685,9/5/23,0.866232276,Cuba uncovers network trafficking Cubans to fight for Russia in Ukraine,Cuba says ‘human trafficking network’ is sending its nationals to fight for Russia in Ukraine,1
+2892,3325,9/4/23,4687,9/4/23,0.74049294,"Russia won’t renew grain deal until demands met, Putin tells Erdogan",Putin and Erdogan meet to discuss grain deal amid ‘shifting power balance’,1
+2897,3326,9/4/23,4684,9/4/23,0.80440563,North Korean leader Kim expected to meet Russia’s Putin: US,"North Korea’s Kim Jong Un may meet Putin in Russia to discuss arms deal, US says",1
+2927,3329,9/4/23,4690,9/3/23,0.766052842,Russia attacks Ukraine grain port ahead of Putin-Erdogan talks,Russia strikes Ukrainian ports near NATO border ahead of talks to resume grain deal,1
+2969,3334,9/2/23,4691,9/3/23,0.772461176,Ukraine tycoon Ihor Kolomoisky taken into custody over fraud allegations,Ukrainian oligarch and Zelensky supporter Ihor Kolomoisky arrested in fraud investigation,1
+2981,3335,9/2/23,4692,9/2/23,0.83377856,"Nobel Foundation reverses invitations to Russia, Iran after backlash",Nobel Foundation reverses decision to invite Russia to prize ceremony following backlash,1
+3125,3349,8/30/23,4697,8/31/23,0.801981211,Ukraine’s troops push towards Russia’s rear defences,Ukrainian forces penetrate ‘first line’ of Russian defenses on southern front,0
+3192,3358,8/28/23,4708,8/29/23,0.76153481,How useful will the F-16s be in helping Ukraine?,No ‘silver bullet’: Ukraine faces many challenges in getting the F-16 into combat,1
+3275,3375,8/24/23,4715,8/24/23,0.882998705,Ukraine says troops landed on Crimea in ‘special operation’,Ukraine says it landed troops on the shores of Russian-occupied Crimea,1
+3379,3396,8/20/23,4722,8/20/23,0.70019567,Ukraine ‘sky shield getting stronger’ as allies supply coveted F-16s,Zelensky hails ‘historic’ supply of F-16s as Ukraine seeks to counter Russian air supremacy,1
+3421,3402,8/18/23,4727,8/17/23,0.724389374,Netherlands says US has approved delivery of F-16s to Ukraine,US commits to approving F-16s for Ukraine as soon as training is complete,0
+3539,3418,8/16/23,4734,8/15/23,0.806643605,Poland holds huge military parade as war rages in neighbouring Ukraine,"Poland holds biggest military parade in decades, as its clout in Europe grows",1
+3646,3434,8/10/23,4743,8/10/23,0.723951042,$24bn for Ukraine tops Biden budget request ahead of looming showdown,Biden asks Congress for $24 billion in more Ukraine assistance,1
+3657,3435,8/10/23,4746,8/10/23,0.84832108,Ukraine orders civilian evacuation of Kharkiv areas as Russians advance,Ukraine orders evacuation of northeastern city of Kupyansk as Russia claims advances,1
+3796,3449,8/7/23,4757,8/7/23,0.919616818,Ukraine replaces Soviet hammer and sickle with trident on Kyiv monument,Ukraine replaces Soviet-era hammer and sickle symbol with a trident on Kyiv statue,1
+3808,3451,8/6/23,4758,8/6/23,0.721584082,Russia unleashes strikes against Ukraine; Kyiv targets Crimea bridge,Explosions hit road bridges between Crimea and occupied Ukraine,1
+3832,3455,8/5/23,4759,8/5/23,0.726590991,Russian tanker damaged in new water drone attack,Ukraine hits Russian oil tanker with sea drone hours after attacking naval base,0
+3886,3463,8/2/23,4764,8/2/23,0.82107383,NATO allies beef up security due to Wagner troops’ presence in Belarus,Tensions high on NATO’s border with Belarus after Wagner troops move closer,0
+3980,3479,7/28/23,4776,7/28/23,0.772805214,"Moscow says Ukraine fired missiles at Russian city, wounding 20",Russia says it shot down Ukrainian missile over southern city with 14 injured,1
+4141,3495,7/24/23,4791,7/23/23,0.831159651,Russia says it foiled a Ukrainian drone attack on Moscow,"Ukraine carried out drone attack on Moscow, officials say",1
+4217,3504,7/21/23,4803,7/20/23,0.805654526,US says Ukraine’s use of cluster bombs against Russia ‘effective’,Ukraine has started using US provided cluster munitions in combat,1
+4397,3521,7/17/23,4812,7/17/23,0.732200444,"As Russia exits grain deal, which countries will be affected?","Russia pulls out of Ukraine grain deal, in potential blow to global food supplies",1
+4408,3522,7/17/23,4813,7/16/23,0.702364981,"Crimea bridge attack: What happened, why is the bridge important?",Ukraine claims responsibility for new attack on key Crimea bridge,0
+4409,3522,7/17/23,4814,7/17/23,0.788783431,"Crimea bridge attack: What happened, why is the bridge important?",Why the Crimean Bridge is so important to Vladimir Putin,1
+4417,3523,7/17/23,4812,7/17/23,0.720527291,Russia-Ukraine Black Sea grain deal: All you need to know,"Russia pulls out of Ukraine grain deal, in potential blow to global food supplies",1
+4426,3524,7/17/23,4811,7/18/23,0.704865754,Russia halts participation in Ukraine grain deal,Putin’s ruthless power play may not preclude a revival of Ukraine grain deal,0
+4427,3524,7/17/23,4812,7/17/23,0.82569021,Russia halts participation in Ukraine grain deal,"Russia pulls out of Ukraine grain deal, in potential blow to global food supplies",1
+4433,3524,7/17/23,4818,7/16/23,0.704874396,Russia halts participation in Ukraine grain deal,Crucial deal on Ukraine grain exports on the brink of expiring,0
+5066,3576,7/8/23,4850,7/7/23,0.968464017,"Ukraine ‘deserves’ NATO membership, Turkey’s Erdogan says",Turkey’s Erdogan says Ukraine deserves NATO membership,1
+5079,3578,7/7/23,4843,7/7/23,0.83619076,US to give Ukraine widely banned cluster munitions despite fears,What are the cluster munitions the US is supplying Ukraine with and why are they so controversial?,0
+5081,3578,7/7/23,4848,7/7/23,0.926007748,US to give Ukraine widely banned cluster munitions despite fears,US to send cluster munitions banned by over 100 nations to Ukraine after months of debate,1
+5119,3582,7/7/23,4843,7/7/23,0.728000224,US to send cluster bombs to Ukraine despite humanitarian concerns,What are the cluster munitions the US is supplying Ukraine with and why are they so controversial?,0
+5121,3582,7/7/23,4848,7/7/23,0.831419051,US to send cluster bombs to Ukraine despite humanitarian concerns,US to send cluster munitions banned by over 100 nations to Ukraine after months of debate,0
+5155,3585,7/6/23,4853,7/6/23,0.704635799,"Analyst: ‘Uneasy ceasefire’ between Wagner, Russia after mutiny","Wagner boss now in Russia, says Belarus president, muddying the waters over purported deal to end mutiny",0
+5177,3587,7/6/23,4853,7/6/23,0.775774419,"After brief exile in Belarus, Wagner boss in Russia: Lukashenko","Wagner boss now in Russia, says Belarus president, muddying the waters over purported deal to end mutiny",0
+5426,3625,6/28/23,4869,6/28/23,0.856930614,"Wagner boss Prigozhin has arrived in Belarus, says Lukashenko","Wagner chief Prigozhin is in Belarus following armed rebellion, Lukashenko says",1
+5491,3632,6/27/23,4871,6/27/23,0.734000206,Belarus role in Russia-Wagner feud ‘boosts Lukashenko’s clout’,Lukashenko claims he stopped Putin from ‘destroying’ Wagner group,0
+5584,3640,6/26/23,4877,6/26/23,0.71402812,‘Not overthrowing power’: Wagner boss Prigozhin defends uprising,"The Wagner insurrection is over, but Putin and Prigozhin are keeping a low profile",0
+5732,3652,6/24/23,4883,6/24/23,0.728955388,"Wagner boss calls off march on Moscow, agrees to exile in Belarus","Wagner chief to leave Russia for Belarus in deal that ends armed insurrection, Kremlin says",1
+6151,3713,6/11/23,4910,6/11/23,0.771805644,Zelenskyy says counteroffensive actions under way against Russia,Zelensky signaled Ukraine’s counteroffensive against Russia is underway. Here’s what to expect,1
+6272,3726,6/7/23,4915,6/8/23,0.71722424,Ukraine ramps up operations as dam destruction blame game unfolds,Here are the key theories on what caused Ukraine’s catastrophic dam collapse,0
+6290,3727,6/7/23,4923,6/7/23,0.728578091,‘It’s a nightmare’: Ukrainians decry the Kakhovka dam blast,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’,1
+6352,3733,6/6/23,4923,6/7/23,0.732281923,Hundreds flee floods in Ukraine after Nova Kakhovka dam breached,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’,0
+6362,3734,6/6/23,4923,6/7/23,0.802360773,All to know about Ukraine’s Nova Kakhovka dam explosion,Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’,0
+6367,3734,6/6/23,4928,6/6/23,0.723669946,All to know about Ukraine’s Nova Kakhovka dam explosion,Collapse of critical Ukrainian dam sparks region-wide evacuations. Here’s what we know,1
+6382,3736,6/6/23,4923,6/7/23,0.742431998,"Ukraine, Russia trade blame for destruction of Nova Kakhovka dam",Collapse of Ukraine’s Nova Kakhovka dam an ‘ecological catastrophe’,0
+6648,3777,5/28/23,4944,5/29/23,0.732498229,Russia unleashes ‘massive’ air raids on Ukraine’s Kyiv,Russia ‘changes tactics’ and hits Kyiv with daytime missile attack,0
+6888,3813,5/21/23,4962,5/22/23,0.703730583,Why is Bakhmut important in the Russia-Ukraine war?,"Russia has claimed to control Bakhmut, but Ukraine says it’s still fighting. Here’s what we know",1
+6902,3814,5/21/23,4966,5/20/23,0.725836039,Zelenskyy calls on G7 to ensure Russia is ‘last aggressor’,Zelensky marshals support for Ukraine during dramatic appearance at G7,1
+6920,3816,5/21/23,4964,5/20/23,0.778093278,Russians ‘destroyed everything’ in Bakhmut: Ukraine’s Zelenskyy,Zelensky says fiercely contested Bakhmut ‘not occupied’ as Russia claims capture,0
+6983,3821,5/20/23,4968,5/20/23,0.877631783,Russia: Giving F-16 fighter jets to Ukraine a ‘colossal risk’,Russia warns West of ‘enormous risks’ if Ukraine is supplied with F-16 jets,1
+7092,3828,5/19/23,4966,5/20/23,0.840579689,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Zelensky marshals support for Ukraine during dramatic appearance at G7,0
+7095,3828,5/19/23,4969,5/19/23,0.709123194,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Zelensky makes dramatic Japan appearance as G7 leaders take aim at Russia and China,0
+7099,3828,5/19/23,4973,5/19/23,0.788714051,Ukraine’s Zelenskyy to attend G7 as leaders up pressure on Russia,Ukraine’s Zelensky caps frenetic week of diplomacy with plans to appear in person at Japan’s G7 summit,1
+7169,3831,5/19/23,4980,5/18/23,0.700655639,Pentagon error said to overvalue Ukraine arms aid by $3bn,Accounting error frees $3 billion for Ukraine weapons assistance,1
+7227,3834,5/18/23,4985,5/18/23,0.739055753,‘Pro-Russian neutrality’: How Ukraine sees China’s emerging role,China woos Central Asia as Ukraine war weakens Russian influence,1
+7336,3840,5/17/23,4987,5/17/23,0.76275444,Russia agrees to renew Ukraine Black Sea grain deal for 60 days,Ukraine grain deal to be extended for 2 months,1
